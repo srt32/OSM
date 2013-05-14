@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import sys
 intputFile = open(sys.argv[1])
-
+delta = 0.0001090911074
 # export data from here, http://www.openstreetmap.org/
 
 tree = ET.parse(intputFile)
@@ -23,7 +23,7 @@ print "Bounds:",
 for bound in root.iter('bounds'):
 	print bound.attrib
 
-print "lat, lon, name"
+print "lat, lon, name, around_latitudes"
 
 for node in root.findall('node'):
 	lat = node.get('lat')
@@ -32,12 +32,19 @@ for node in root.findall('node'):
 		k = tag.get('k')  # needs to find the tag with k="name"
 		v = tag.get('v')
 		if k == "name":
-			print lat + "," + lon + "," + v
-
-# build out `around_latitudes` in this format (40 feet = 0.0001090911074 @equator)
-	# [[42.3723963154471, -71.11918887731053], [42.373081932395664, -71.11877045270421], [42.37300267070331, -71.11804625627019], [42.372103043484294, -71.11860952016332]]
-delta = 0.0001090911074
-
+			print lat + "," + lon + "," + v + ",",
+		# build out `around_latitudes` in this format (40 feet = 0.0001090911074 @equator)
+			# [[42.3723963154471, -71.11918887731053], [42.373081932395664, -71.11877045270421], [42.37300267070331, -71.11804625627019], [42.372103043484294, -71.11860952016332]]
+			Ax = float(lat) - delta
+			Ay = float(lon) + delta
+			Bx = float(lat) + delta
+			By = float(lon) + delta
+			Cx = float(lat) + delta
+			Cy = float(lon) - delta
+			Dx = float(lat) - delta
+			Dy = float(lon) - delta
+			around_latitudes = [[Ax, Ay], [Bx, By], [Cx, Cy], [Dx ,Dy]]
+			print around_latitudes
 
 # POSSIBLE ENHANCEMENTS:
 # give out binary if building or not
