@@ -1,0 +1,35 @@
+gmaps, latitude, longitude, name
+t, 39.6812672089 , -104.962371609 , Hilltop Stadium
+t, 39.6765450089 , -104.962093909 , University of Denver
+t, 39.6776687089 , -104.959890909 , Daniels College of Business
+t, 39.6787798089 , -104.959890909 , Ricks Center
+t, 39.6821131089 , -104.962946509 , Williams Tower And Carillon
+t, 39.6815576089 , -104.962668709 , El Pomar Natatorium
+t, 39.6771131089 , -104.960446509 , University Hall
+t, 39.6796131089 , -104.963502009 , Sturm Hall
+t, 39.6782242089 , -104.964335309 , Columbine Hall
+t, 39.6740576089 , -104.962113109 , F W Olin Hall
+t, 39.6751687089 , -104.964057609 , Johnson-McFarlane Hall
+t, 39.6767062089 , -104.963665409 , Skyline Hall
+t, 39.6779465089 , -104.960446509 , Margery Reed Hall
+t, 39.6799168089 , -104.961885009 , Leo Black Alumni Center
+t, 39.6807242089 , -104.964057609 , Stapleton Tennis Pavilion
+t, 39.6821131089 , -104.961557609 , Magness Arena
+t, 39.6823909089 , -104.961002009 , Joy Burns Arena
+t, 39.6823909089 , -104.962668709 , Hamilton Gymnasium
+t, 39.6812798089 , -104.962113109 , Coors Fitness Center
+t, 39.6758607089 , -104.963734109 , Hilltop Hall
+t, 39.6758541089 , -104.963133309 , Aspen Hall
+t, 39.6767062089 , -104.964824109 , Mary Mac Building
+t, 39.6770299089 , -104.964257709 , Frontier Hall
+t, 39.6772149089 , -104.963605309 , Pioneer Hall
+t, 39.6785213089 , -104.959484909 , Pete's Cafe
+t, 39.6784757089 , -104.959675609 , Ben and Jerry's Ice Cream
+t, 39.6788192089 , -104.959515809 , Mustard's Last Stand
+t, 39.6789494089 , -104.959693909 , Jimmy John's
+t, 39.6790888089 , -104.959693909 , Darque Tan
+t, 39.6790207089 , -104.959688609 , Pak Mail
+t, 39.6762586089 , -104.961360909 , Mary Reed Building
+t, 39.6760020089 , -104.962113109 , Ben M Cherrington Hall
+t, 39.6774562089 , -104.964927409 , University of Denver Graduate School of Social Work
+t, 39.6776687089 , -104.964890909 , Craig Hall

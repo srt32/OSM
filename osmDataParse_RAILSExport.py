@@ -7,25 +7,9 @@ delta = 0.0001090911074 # = 40 equator-feet
 tree = ET.parse(intputFile)
 root = tree.getroot()
 
-print "University Name (IT IS NOT NECESSARILY THE CORRECT UNIVERSITY):",
-uni = 0
-for node in root.findall('node'):
-	uni_id_raw = node.get('id')
-	for tag in node.findall('tag'):
-		k = tag.get('k')
-		v = tag.get('v')
-		if k == "amenity" and v == "university":
-			uni = 1
-		if k == "name" and uni == 1:
-			uni_id = uni_id_raw
-			print v
-			uni = 0
+# for import to RAILS:  :gmaps, :latitude, :longitude, :name
 
-print "Bounds:",
-for bound in root.iter('bounds'):
-	print bound.attrib
-
-print "lat, lon, name, around_latitudes" # headers
+print "gmaps, latitude, longitude, name"
 
 for node in root.findall('node'):
 	nid = node.get('id')
@@ -34,8 +18,7 @@ for node in root.findall('node'):
 	for tag in node.findall('tag'):
 		k = tag.get('k')  # needs to find the tag with k="name"
 		v = tag.get('v')
-		if k == "name" and nid != uni_id:
-			print lat + "," + lon + "," + v + ",",
+		if k == "name":
 			Ax = float(lat) - delta
 			Ay = float(lon) + delta
 			Bx = float(lat) + delta
@@ -44,8 +27,30 @@ for node in root.findall('node'):
 			Cy = float(lon) - delta
 			Dx = float(lat) - delta
 			Dy = float(lon) - delta
-			around_latitudes = [[Ax, Ay], [Bx, By], [Cx, Cy], [Dx ,Dy]]
-			print around_latitudes
+			print "t" + ",",
+			print Ax, 
+			print ",",
+			print Ay, 
+			print ",",
+			print v
+			print "t" + ",",
+			print Bx, 
+			print ",",
+			print By, 
+			print ",",
+			print v
+			print "t" + ",",
+			print Cx, 
+			print ",",
+			print Cy, 
+			print ",",
+			print v
+			print "t" + ",",
+			print Dx, 
+			print ",",
+			print Dy, 
+			print ",",
+			print v
 
 # POSSIBLE ENHANCEMENTS:
 # give out binary if building or not

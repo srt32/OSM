@@ -1,0 +1,25 @@
+<%= form_for(@datapoint) do |f| %>
+  <% if @datapoint.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@datapoint.errors.count, "error") %> prohibited this datapoint from being saved:</h2>
+
+      <ul>
+      <% @datapoint.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+    <%= f.label :latitude %>
+    <%= f.text_field :latitude %>
+    <%= f.label :longitude %>
+    <%= f.text_field :longitude %>
+    <%= f.label :gmaps %>
+    <%= f.check_box :gmaps %>
+    <%= f.submit %>
+  </div>
+<% end %>

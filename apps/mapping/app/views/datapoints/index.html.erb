@@ -1,0 +1,32 @@
+<%= gmaps4rails(@json) %>
+
+<h1>Listing datapoints</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Latitude</th>
+    <th>Longitude</th>
+    <th>Gmaps</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @datapoints.each do |datapoint| %>
+  <tr>
+    <td><%= datapoint.name %></td>
+    <td><%= datapoint.latitude %></td>
+    <td><%= datapoint.longitude %></td>
+    <td><%= datapoint.gmaps %></td>
+    <td><%= link_to 'Show', datapoint %></td>
+    <td><%= link_to 'Edit', edit_datapoint_path(datapoint) %></td>
+    <td><%= link_to 'Destroy', datapoint, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Datapoint', new_datapoint_path %>
+<%= link_to "Remove ALL", remove_all_datapoints_path, :method => :get, data: { confirm: 'Are you sure? THIS ACTION WILL DELETE ALL DATAPOINTS' }  %>
