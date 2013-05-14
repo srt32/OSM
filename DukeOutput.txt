@@ -1,0 +1,20 @@
+University Name (IT IS NOT NECESSARILY THE CORRECT UNIVERSITY): Bounds: {'minlat': '35.9950000', 'maxlon': '-78.9308000', 'minlon': '-78.9495000', 'maxlat': '36.0070000'}
+lat, lon, name
+35.9991461,-78.9368496,Pitchfork Provisions
+36.0057757,-78.9377841,Medical Center Library
+36.0064782,-78.9478468,Chai's
+36.0015321,-78.9400087,Duke University
+36.0068670,-78.9477266,Quiznos
+36.0059765,-78.9366752,Bell Medical Research Building
+36.0055000,-78.9343000,Hospital South Parking Deck
+36.0009765,-78.9400087,Page Auditorium
+36.0029210,-78.9369531,Davison Building
+36.0058080,-78.9380140,Seeley G. Mudd Building
+36.0047610,-78.9369820,Edwin A. Morris Clinical Cancer Research Building
+36.0067280,-78.9404010,Edwin L Jones Cancer Research Building
+36.0019680,-78.9314540,Doris Duke Gardens Visitors Center
+35.9950925,-78.9428861,Duke Sports Medicine Clinic
+36.0008659,-78.9406040,Joe Van Gogh
+36.0018774,-78.9393258,Duke Divinity School
+36.0019883,-78.9315653,120
+36.0019226,-78.9333954,Roney Fountain

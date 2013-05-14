@@ -1,0 +1,53 @@
+University Name (IT IS NOT NECESSARILY THE CORRECT UNIVERSITY): University of Rochester
+Bounds: {'minlat': '43.1240000', 'maxlon': '-77.6219000', 'minlon': '-77.6343000', 'maxlat': '43.1322000'}
+lat, lon, name
+43.1278401,-77.6300015,WRUR-FM (Rochester)
+43.1269444,-77.6322222,Interfaith Chapel
+43.1308333,-77.6283333,Fauver Stadium
+43.1288889,-77.6288889,Frederick Douglass Dining Center
+43.1260105,-77.6287931,New York State Center For Advanced Technology
+43.1288889,-77.6297222,Wilson Commons
+43.1282429,-77.6317701,Todd Union
+43.1311111,-77.6255556,Sage Art Center
+43.1286111,-77.6283333,Rush Rhees Library
+43.1277778,-77.6313889,Strong Auditorium
+43.1313335,-77.6250356,Wilder Hall
+43.1302778,-77.6230556,Munro Hall
+43.1305556,-77.6230556,Kendrick Hall
+43.1308333,-77.6230556,Gale Hall
+43.1311111,-77.6227778,Fairchild Hall
+43.1305556,-77.6269444,Spurrier Hall
+43.1302778,-77.6236111,Slater Hall
+43.1271104,-77.6283921,Harkness Hall
+43.1276231,-77.6291499,Bausch And Lomb Hall
+43.1294444,-77.6313889,Burton Hall
+43.1277778,-77.6280556,Meliora Hall
+43.1302778,-77.6308333,Hoeing Hall
+43.1305556,-77.6313889,Gilbert Hall
+43.1302778,-77.6322222,Tiernan Hall
+43.1297222,-77.6319444,Lovejoy Hall
+43.1297222,-77.6269444,Gates Hall
+43.1280556,-77.6305556,Lattimore Hall
+43.1297222,-77.6305556,Crosby Hall
+43.1300000,-77.6266667,Gannett Hall
+43.1302778,-77.6263889,Danforth Hall
+43.1300000,-77.6261111,Hollister Hall
+43.1294444,-77.6263889,Morgan Hall
+43.1257532,-77.6291123,Wilmot Building
+43.1263889,-77.6300000,Hopeman Engineering Building
+43.1263889,-77.6288889,Taylor Hall
+43.1266667,-77.6291667,Gavett Hall
+43.1263889,-77.6311111,Wallis Hall
+43.1272222,-77.6311111,Schlegel Hall
+43.1255556,-77.6302778,Hylan Building
+43.1252778,-77.6308333,Hutchinson Hall
+43.1274142,-77.6301318,Dewey Hall
+43.1268005,-77.6307779,Gleason Hall
+43.1302778,-77.6297222,Robert B Goergen Athletic Center
+43.1292289,-77.6280571,University of Rochester
+43.1314666,-77.6258402,Anderson Hall
+43.1284180,-77.6296569,Morey Hall
+43.1273393,-77.6294718,Hoyt Hall
+43.1269948,-77.6298366,Carol G Simon Hall
+43.1254676,-77.6292305,Robert B. Goergen Hall for Biomedical Engineering and Optics
+43.1523396,-77.6089325,Upper Falls

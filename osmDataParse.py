@@ -1,6 +1,9 @@
-intputFile = 'cornell.osm'
-
 import xml.etree.ElementTree as ET
+import sys
+intputFile = open(sys.argv[1])
+
+# export data from here, http://www.openstreetmap.org/
+
 tree = ET.parse(intputFile)
 root = tree.getroot()
 
