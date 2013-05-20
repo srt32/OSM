@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<!--
+-
+- Sequel Pro XML dump
+- Version 4004
+-
+- http://www.sequelpro.com/
+- http://code.google.com/p/sequel-pro/
+-
+- Host: campuscene.com (MySQL 5.1.68-cll)
+- Database: ab44045_dev_campuscene
+- Generation Time Time: 2013-05-20 13:39:14 -0600
+-
+- REMOVED `center_latitude`
+-->
+
+<resultset statement="SELECT `id`, `title`, `around_latitudes`, `center_latitude` FROM `schools`" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="id">5</field>
+		<field name="title">University of Denver</field>
+		<field name="around_latitudes">[[39.682630671425464, -104.95961873845812], [39.68299397138064, -104.96526210622545], [39.673052074111894, -104.96410339193102], [39.67308510604024, -104.95933978872057]]</field>
+	</row>
+
+	<row>
+		<field name="id">2933</field>
+		<field name="title">SUNY at Binghamton</field>
+		<field name="around_latitudes">[[42.0925456101,-75.971143], 
+                                                                     [42.0880488406,-75.965083823], 
+                                                                     [42.0835523899,-75.971143], 
+                                                                     [42.0880488406,-75.977202177]]</field>
+	</row>
+
+</resultset>
