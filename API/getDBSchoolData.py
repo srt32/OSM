@@ -1,7 +1,6 @@
 # this script will take the school_DB dump and parse it to pull out the around_latitudes, name, id 
 	# for the input school name -- Example = "University of Denver"
 # this data is then passed to OSMAPICall.py
-
 def OSMParse(fileName,schoolName):
 	import xml.etree.ElementTree as ET
 	intputFile = open(sys.argv[1])
@@ -27,7 +26,7 @@ def OSMParse(fileName,schoolName):
 				print around_lats
 				target = 0
 
-# parse the results into "left,bot,right,top,outputName,schoolName,schoolID"
+# parse the results into "left,bot,right,top,outputName,schoolName,schoolID" using around_lats, name, school_id
 
 if __name__ == '__main__':
 	import sys
