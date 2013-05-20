@@ -4,7 +4,7 @@
 # EXAMPLE CALL -- python subProcessTest.py 11.54 48.14 11.543 48.145 testAPIOutput_2.txt
 
 # get the bounds from it and pass it to OSM_API_Call
-def OSM_API_Call(left,bot,right,top,outputName,schoolName):
+def OSM_API_Call(left,bot,right,top,outputName,schoolName,schoolID):
 	import subprocess
 
 	fileName = str(outputName) # "testAPIOutput_2.txt" 
@@ -20,8 +20,8 @@ def OSM_API_Call(left,bot,right,top,outputName,schoolName):
 	cmdCall = "curl " + '"' + link + '"'
 
 	subprocess.call(cmdCall, shell=True, stdout = o_file)
-	print "Data output to " + str(fileName)
+	# print "Data output to " + str(fileName)
 
 if __name__ == '__main__':
 	import sys
-	OSM_API_Call(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5], "<schoolName>")
+	OSM_API_Call(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5], "<schoolName>", "<schoolID>")

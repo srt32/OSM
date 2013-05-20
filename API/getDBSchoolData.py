@@ -2,38 +2,33 @@
 	# for the input school name -- Example = "University of Denver"
 # this data is then passed to OSMAPICall.py
 
-def OSMParse():
+def OSMParse(fileName,schoolName):
 	import xml.etree.ElementTree as ET
-	import sys
 	intputFile = open(sys.argv[1])
 
 	tree = ET.parse(intputFile)
 	root = tree.getroot()
 
-	print "University Name (IT IS NOT NECESSARILY THE CORRECT UNIVERSITY):",
-	uni = 0
-	for node in root.findall('node'):
-		uni_id_raw = node.get('id')
-		for tag in node.findall('tag'):
-			k = tag.get('k')
-			v = tag.get('v')
-			if k == "amenity" and v == "university":
-				uni = 1
-			if k == "name" and uni == 1:
-				uni_id = uni_id_raw
-				print v
-				uni = 0
+	target = 0
+	for row in root.findall('row'):
+		for field in row.findall('field'):
+			key = field.get('name')
+			value = field.text
+			if key == "id":
+				school_id_local = value
+			if value == schoolName and key == "title":
+				target = 1
+				name = str(value)
+				print name,
+			if target == 1 and key == "around_latitudes":
+				school_id = school_id_local
+				print school_id,
+				around_lats = value
+				print around_lats
+				target = 0
 
-	for node in root.findall('node'):
-		nid = node.get('id')
-		lat = node.get('lat')
-		lon = node.get('lon')
-		for tag in node.findall('tag'):
-			k = tag.get('k')  # needs to find the tag with k="name"
-			v = tag.get('v')
-			if k == "name" and nid != uni_id:
-				print lat + "," + lon + "," + v + ",",
-				Ax = float(lat) - delta
+# parse the results into "left,bot,right,top,outputName,schoolName,schoolID"
 
 if __name__ == '__main__':
-	OSMParse()
+	import sys
+	OSMParse(sys.argv[1],sys.argv[2])
