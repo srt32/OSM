@@ -1,4 +1,10 @@
 Mapping::Application.routes.draw do
+  resources :calls do
+    member do
+      get :runIt, :as => 'runIt'
+    end
+  end
+
   resources :datapoints do
     collection do
       get 'remove_all'

@@ -1,0 +1,33 @@
+<h1>Listing calls</h1>
+
+<table>
+  <tr>
+    <th>Script name</th>
+    <th>School data filename</th>
+    <th>School name</th>
+    <th>Api response filename</th>
+    <th>Dp rails filename</th>
+    <th>Dp db filename</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @calls.each do |call| %>
+  <tr>
+    <td><%= call.script_name %></td>
+    <td><%= call.school_data_filename %></td>
+    <td><%= call.school_name %></td>
+    <td><%= call.API_response_filename %></td>
+    <td><%= call.DP_rails_filename %></td>
+    <td><%= call.DP_DB_filename %></td>
+    <td><%= link_to 'Show', call %></td>
+    <td><%= link_to 'Edit', edit_call_path(call) %></td>
+    <td><%= link_to 'Destroy', call, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Call', new_call_path %>

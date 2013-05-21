@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  script_name: MyString
+  school_data_filename: MyString
+  school_name: MyString
+  API_response_filename: MyString
+  DP_rails_filename: MyString
+  DP_DB_filename: MyString
+
+two:
+  script_name: MyString
+  school_data_filename: MyString
+  school_name: MyString
+  API_response_filename: MyString
+  DP_rails_filename: MyString
+  DP_DB_filename: MyString

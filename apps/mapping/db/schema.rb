@@ -11,7 +11,18 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130514210825) do
+ActiveRecord::Schema.define(:version => 20130521205445) do
+
+  create_table "calls", :force => true do |t|
+    t.string   "script_name"
+    t.string   "school_data_filename"
+    t.string   "school_name"
+    t.string   "API_response_filename"
+    t.string   "DP_rails_filename"
+    t.string   "DP_DB_filename"
+    t.datetime "created_at",            :null => false
+    t.datetime "updated_at",            :null => false
+  end
 
   create_table "datapoints", :force => true do |t|
     t.text     "name"

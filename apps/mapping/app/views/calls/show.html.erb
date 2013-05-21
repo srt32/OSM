@@ -1,0 +1,36 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Script name:</b>
+  <%= @call.script_name %>
+</p>
+
+<p>
+  <b>School data filename:</b>
+  <%= @call.school_data_filename %>
+</p>
+
+<p>
+  <b>School name:</b>
+  <%= @call.school_name %>
+</p>
+
+<p>
+  <b>Api response filename:</b>
+  <%= @call.API_response_filename %>
+</p>
+
+<p>
+  <b>Dp rails filename:</b>
+  <%= @call.DP_rails_filename %>
+</p>
+
+<p>
+  <b>Dp db filename:</b>
+  <%= @call.DP_DB_filename %>
+</p>
+
+
+<%= link_to 'Edit', edit_call_path(@call) %> |
+<%= link_to 'Back', calls_path %> ||| 
+<%= link_to 'Run It!', runIt_call_path(@call) %>

@@ -1,0 +1,41 @@
+<%= form_for(@call) do |f| %>
+  <% if @call.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@call.errors.count, "error") %> prohibited this call from being saved:</h2>
+
+      <ul>
+      <% @call.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :script_name %><br />
+    <%= f.text_field :script_name %>
+  </div>
+  <div class="field">
+    <%= f.label :school_data_filename %><br />
+    <%= f.text_field :school_data_filename %>
+  </div>
+  <div class="field">
+    <%= f.label :school_name %><br />
+    <%= f.text_field :school_name %>
+  </div>
+  <div class="field">
+    <%= f.label :API_response_filename %><br />
+    <%= f.text_field :API_response_filename %>
+  </div>
+  <div class="field">
+    <%= f.label :DP_rails_filename %><br />
+    <%= f.text_field :DP_rails_filename %>
+  </div>
+  <div class="field">
+    <%= f.label :DP_DB_filename %><br />
+    <%= f.text_field :DP_DB_filename %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
