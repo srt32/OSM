@@ -1,6 +1,13 @@
 class DatapointsController < ApplicationController
   # GET /datapoints
   # GET /datapoints.json
+  def sampleCMD
+    @output = `python OSM_All.py schools_full.xml "Arizona State University" testOutput.txt OutputFile.txt OutputFileDB.txt 2>&1`; result=$?.success?
+
+    # `python OSM_All.py schools_full.xml "Arizona State University" testOutput.txt OutputFile.txt OutputFileDB.txt`
+
+  end
+
   def index
     @datapoints = Datapoint.all
     @json = @datapoints.to_gmaps4rails
