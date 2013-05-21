@@ -7,7 +7,6 @@ def OSMDataParse(inputFile,OutputFileDB,schoolID):
 	# for troubleshooting
 	print inputFile
 
-
 	# pipe output to file
 	saveout = sys.stdout  
 	sys.stdout = open(OutputFileDB, 'w')
