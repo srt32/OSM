@@ -1,7 +1,7 @@
 # this script will take the school_DB dump and parse it to pull out the around_latitudes, name, id 
 	# for the input school name -- Example = "University of Denver"
 # this data is then passed to OSMAPICall.py
-def getDBSchoolData(fileName,schoolName,outputName,OutputFile):
+def getDBSchoolData(fileName,schoolName,outputName,OutputFile,OutputFileDB):
 	print "STARTING getDBSchoolData"
 	import sys
 	import re
@@ -69,7 +69,7 @@ def getDBSchoolData(fileName,schoolName,outputName,OutputFile):
 	print "school id is " + schoolID
 
 	print "COMPLETED getDBSchoolData"
-	return (left,bot,right,top,outputName,schoolName,schoolID,OutputFile)
+	return (left,bot,right,top,outputName,schoolName,schoolID,OutputFile,OutputFileDB)
 
 	if __name__ == '__main__':
  		import sys
