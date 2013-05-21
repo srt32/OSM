@@ -11,7 +11,7 @@ def main(fileName,schoolName,outputName,OutputFile,OutputFileDB):
 	inputFile,OutputFile = OSMAPICall(left,bot,right,top,outputName,schoolName,schoolID,OutputFile) # need to sync up outputName from above with inputFile from below
 	OSMParseForRails(inputFile,OutputFile) # needs to be piped to OutputFile (PROBABLY WITHINT THE FUNCTION)
 	OSMDataParse(inputFile,OutputFileDB,schoolID) # CODE NEEDS TO BE UPDATED // NEED TO PASS PARAMS THROUGH OTHERS
-	# callRailsApp()
+	# callRailsApp(OutputFileDB)
 
 	# rake the piped output file in rails app to review DP's
 	print "COMPLETED OSM_All"
