@@ -1,7 +1,10 @@
 Mapping::Application.routes.draw do
+  root :to => 'datapoints#index'
+
   resources :calls do
     member do
       get :runIt, :as => 'runIt'
+      get :confirm, :as => 'confirm'
     end
   end
 

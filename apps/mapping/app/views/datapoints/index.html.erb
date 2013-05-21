@@ -1,4 +1,5 @@
-<%= link_to 'New Datapoint', new_datapoint_path %>
+<%= link_to 'New Datapoint', new_datapoint_path %> |
+<%= link_to 'See Calls', calls_path %> |||
 <%= link_to "Remove ALL", remove_all_datapoints_path, :method => :get, data: { confirm: 'Are you sure? THIS ACTION WILL DELETE ALL DATAPOINTS' }  %>
 
 <%= gmaps4rails(@json) %>

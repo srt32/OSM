@@ -2,7 +2,7 @@ class CallsController < ApplicationController
   # GET /calls
   # GET /calls.json
   
-  def runIt # need to add a button on the Confirm page to get here.  Then button to return to DP page
+  def runIt # need to add a button on the Confirm page to get here.
     @call = Call.find(params[:id])
     @cmd = "python " + @call.script_name + @call.school_data_filename + @call.school_name + @call.API_response_filename + @call.DP_rails_filename + @call.DP_DB_filename
 
@@ -10,6 +10,7 @@ class CallsController < ApplicationController
   end
 
   def confirm # need to add a button on the Show page
+    @call = Call.find(params[:id])
   end
 
   def index
