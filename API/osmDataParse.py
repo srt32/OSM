@@ -1,3 +1,5 @@
+# ADDITIONAL NULL COLUMNS WILL NEED TO BE ADDED TO THE OUTPUT TO PERFECTLY MATCH SCHEMA OF DB
+
 def OSMDataParse(inputFile,OutputFileDB,schoolID):
 	import xml.etree.ElementTree as ET
 	import sys
