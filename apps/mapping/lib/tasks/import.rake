@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 # http://erikonrails.snowedin.net/?p=212
-# to call rake csv_model_import[bunnies.csv,Bunny]
+# to call rake csv_model_import[bunnies.csv,Datapoint]
 
 #lib/tasks/import.rake
 # desc “Imports a CSV file into an ActiveRecord table”
