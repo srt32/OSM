@@ -24,12 +24,13 @@ def getDBSchoolData(fileName,schoolName,outputName,OutputFile,OutputFileDB):
 				target = 1
 				name = str(value)
 				# print name,
-			if target == 1 and key == "around_latitudes":
+			if target == 1 and key == "around_latitudes": 
 				school_id = school_id_local
 				# print school_id,
 				around_lats = value
 				# print around_lats
 				target = 0
+			# if error = "UnboundLocalError: local variable 'around_lats' referenced before assignment" => school not in data
 
 	# format output for global vars
 	# parse the results into "left,bot,right,top,schoolName,schoolID" using around_lats, name, school_id
