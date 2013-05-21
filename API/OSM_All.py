@@ -23,5 +23,8 @@ main(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
 
 
 # EXAMPLE CALL!
-
+# cd /Users/Simon/campuscene/osm/API
 # python OSM_All.py schools_subset.xml "SUNY at Binghamton" testOutput.txt OutputFile.txt
+
+# NOTES:
+	# currently does not work with existing schools in CS (data is formatted differently in the around_lats field)

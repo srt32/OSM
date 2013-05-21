@@ -1,25 +1,533 @@
 gmaps, latitude, longitude, name
-t, 42.0896883089 , -75.9681447089 , State University of New York at Binghamton
-t, 42.0899064911 , -75.9681447089 , State University of New York at Binghamton
-t, 42.0899064911 , -75.9683628911 , State University of New York at Binghamton
-t, 42.0896883089 , -75.9683628911 , State University of New York at Binghamton
-t, 42.0899661089 , -75.9675891089 , WHRW-FM (Binghamton)
-t, 42.0901842911 , -75.9675891089 , WHRW-FM (Binghamton)
-t, 42.0901842911 , -75.9678072911 , WHRW-FM (Binghamton)
-t, 42.0899661089 , -75.9678072911 , WHRW-FM (Binghamton)
-t, 42.0857262089 , -75.9666128089 , College-in-The-Woods
-t, 42.0859443911 , -75.9666128089 , College-in-The-Woods
-t, 42.0859443911 , -75.9668309911 , College-in-The-Woods
-t, 42.0857262089 , -75.9668309911 , College-in-The-Woods
-t, 42.0857710089 , -75.9752257089 , Susquehanna Community
-t, 42.0859891911 , -75.9752257089 , Susquehanna Community
-t, 42.0859891911 , -75.9754438911 , Susquehanna Community
-t, 42.0857710089 , -75.9754438911 , Susquehanna Community
-t, 42.0846751089 , -75.9701104089 , Mountainview
-t, 42.0848932911 , -75.9701104089 , Mountainview
-t, 42.0848932911 , -75.9703285911 , Mountainview
-t, 42.0846751089 , -75.9703285911 , Mountainview
-t, 42.0865941089 , -75.9721381089 , Hinman
-t, 42.0868122911 , -75.9721381089 , Hinman
-t, 42.0868122911 , -75.9723562911 , Hinman
-t, 42.0865941089 , -75.9723562911 , Hinman
+t, 40.7719142089 , -73.9677701089 , East 72nd Street Playground
+t, 40.7721323911 , -73.9677701089 , East 72nd Street Playground
+t, 40.7721323911 , -73.9679882911 , East 72nd Street Playground
+t, 40.7719142089 , -73.9679882911 , East 72nd Street Playground
+t, 40.7683256089 , -73.9644737089 , City University of New York Hunter College
+t, 40.7685437911 , -73.9644737089 , City University of New York Hunter College
+t, 40.7685437911 , -73.9646918911 , City University of New York Hunter College
+t, 40.7683256089 , -73.9646918911 , City University of New York Hunter College
+t, 40.7655480089 , -73.9594736089 , Richman High School (historical)
+t, 40.7657661911 , -73.9594736089 , Richman High School (historical)
+t, 40.7657661911 , -73.9596917911 , Richman High School (historical)
+t, 40.7655480089 , -73.9596917911 , Richman High School (historical)
+t, 40.7683256089 , -73.9661404089 , School for Deaf
+t, 40.7685437911 , -73.9661404089 , School for Deaf
+t, 40.7685437911 , -73.9663585911 , School for Deaf
+t, 40.7683256089 , -73.9663585911 , School for Deaf
+t, 40.7657242089 , -73.9648909089 , Saint Vincent Ferrer School
+t, 40.7659423911 , -73.9648909089 , Saint Vincent Ferrer School
+t, 40.7659423911 , -73.9651090911 , Saint Vincent Ferrer School
+t, 40.7657242089 , -73.9651090911 , Saint Vincent Ferrer School
+t, 40.7671131089 , -73.9640576089 , Kennedy Child Study Center
+t, 40.7673312911 , -73.9640576089 , Kennedy Child Study Center
+t, 40.7673312911 , -73.9642757911 , Kennedy Child Study Center
+t, 40.7671131089 , -73.9642757911 , Kennedy Child Study Center
+t, 40.7671131089 , -73.9640576089 , Mount Sinai Dispensary (historical)
+t, 40.7673312911 , -73.9640576089 , Mount Sinai Dispensary (historical)
+t, 40.7673312911 , -73.9642757911 , Mount Sinai Dispensary (historical)
+t, 40.7671131089 , -73.9642757911 , Mount Sinai Dispensary (historical)
+t, 40.7710020089 , -73.9682242089 , Richard Morris Hunt Memorial
+t, 40.7712201911 , -73.9682242089 , Richard Morris Hunt Memorial
+t, 40.7712201911 , -73.9684423911 , Richard Morris Hunt Memorial
+t, 40.7710020089 , -73.9684423911 , Richard Morris Hunt Memorial
+t, 40.7723909089 , -73.9615576089 , Temple Israel
+t, 40.7726090911 , -73.9615576089 , Temple Israel
+t, 40.7726090911 , -73.9617757911 , Temple Israel
+t, 40.7723909089 , -73.9617757911 , Temple Israel
+t, 40.7707242089 , -73.9615576089 , Central Gospel Chapel
+t, 40.7709423911 , -73.9615576089 , Central Gospel Chapel
+t, 40.7709423911 , -73.9617757911 , Central Gospel Chapel
+t, 40.7707242089 , -73.9617757911 , Central Gospel Chapel
+t, 40.7676687089 , -73.9601687089 , Lenox Hill Station New York Post Office
+t, 40.7678868911 , -73.9601687089 , Lenox Hill Station New York Post Office
+t, 40.7678868911 , -73.9603868911 , Lenox Hill Station New York Post Office
+t, 40.7676687089 , -73.9603868911 , Lenox Hill Station New York Post Office
+t, 40.7657242089 , -73.9693353089 , Assisium School
+t, 40.7659423911 , -73.9693353089 , Assisium School
+t, 40.7659423911 , -73.9695534911 , Assisium School
+t, 40.7657242089 , -73.9695534911 , Assisium School
+t, 40.7712798089 , -73.9662798089 , Birch Wathen School
+t, 40.7714979911 , -73.9662798089 , Birch Wathen School
+t, 40.7714979911 , -73.9664979911 , Birch Wathen School
+t, 40.7712798089 , -73.9664979911 , Birch Wathen School
+t, 40.7701687089 , -73.9593353089 , Buckley School
+t, 40.7703868911 , -73.9593353089 , Buckley School
+t, 40.7703868911 , -73.9595534911 , Buckley School
+t, 40.7701687089 , -73.9595534911 , Buckley School
+t, 40.7685020089 , -73.9665576089 , Dominican Academy
+t, 40.7687201911 , -73.9665576089 , Dominican Academy
+t, 40.7687201911 , -73.9667757911 , Dominican Academy
+t, 40.7685020089 , -73.9667757911 , Dominican Academy
+t, 40.7651687089 , -73.9596131089 , Ella Baker School
+t, 40.7653868911 , -73.9596131089 , Ella Baker School
+t, 40.7653868911 , -73.9598312911 , Ella Baker School
+t, 40.7651687089 , -73.9598312911 , Ella Baker School
+t, 40.7651687089 , -73.9596131089 , Vanguard High School
+t, 40.7653868911 , -73.9596131089 , Vanguard High School
+t, 40.7653868911 , -73.9598312911 , Vanguard High School
+t, 40.7651687089 , -73.9598312911 , Vanguard High School
+t, 40.7654198089 , -73.9594743089 , M459 Manhattan International High School
+t, 40.7656379911 , -73.9594743089 , M459 Manhattan International High School
+t, 40.7656379911 , -73.9596924911 , M459 Manhattan International High School
+t, 40.7654198089 , -73.9596924911 , M459 Manhattan International High School
+t, 40.7685020089 , -73.9626687089 , New York School of Interior Design
+t, 40.7687201911 , -73.9626687089 , New York School of Interior Design
+t, 40.7687201911 , -73.9628868911 , New York School of Interior Design
+t, 40.7685020089 , -73.9628868911 , New York School of Interior Design
+t, 40.7685020089 , -73.9662798089 , Peter G Peterson Center for International Studies
+t, 40.7687201911 , -73.9662798089 , Peter G Peterson Center for International Studies
+t, 40.7687201911 , -73.9664979911 , Peter G Peterson Center for International Studies
+t, 40.7685020089 , -73.9664979911 , Peter G Peterson Center for International Studies
+t, 40.7690576089 , -73.9654465089 , Upper East Side Historic District
+t, 40.7692757911 , -73.9654465089 , Upper East Side Historic District
+t, 40.7692757911 , -73.9656646911 , Upper East Side Historic District
+t, 40.7690576089 , -73.9656646911 , Upper East Side Historic District
+t, 40.7642069089 , -73.9634050089 , Manhattan Eye Ear and Throat Hospital
+t, 40.7644250911 , -73.9634050089 , Manhattan Eye Ear and Throat Hospital
+t, 40.7644250911 , -73.9636231911 , Manhattan Eye Ear and Throat Hospital
+t, 40.7642069089 , -73.9636231911 , Manhattan Eye Ear and Throat Hospital
+t, 40.7654198089 , -73.9594743089 , M565 Urban Academy Laboratory High School
+t, 40.7656379911 , -73.9594743089 , M565 Urban Academy Laboratory High School
+t, 40.7656379911 , -73.9596924911 , M565 Urban Academy Laboratory High School
+t, 40.7654198089 , -73.9596924911 , M565 Urban Academy Laboratory High School
+t, 40.7696131089 , -73.9643353089 , Asia Society
+t, 40.7698312911 , -73.9643353089 , Asia Society
+t, 40.7698312911 , -73.9645534911 , Asia Society
+t, 40.7696131089 , -73.9645534911 , Asia Society
+t, 40.7690576089 , -73.9648909089 , Union Club of New York
+t, 40.7692757911 , -73.9648909089 , Union Club of New York
+t, 40.7692757911 , -73.9651090911 , Union Club of New York
+t, 40.7690576089 , -73.9651090911 , Union Club of New York
+t, 40.7690576089 , -73.9660020089 , Istituto Italiano Di Cultura
+t, 40.7692757911 , -73.9660020089 , Istituto Italiano Di Cultura
+t, 40.7692757911 , -73.9662201911 , Istituto Italiano Di Cultura
+t, 40.7690576089 , -73.9662201911 , Istituto Italiano Di Cultura
+t, 40.7687798089 , -73.9660020089 , Spanish Institute
+t, 40.7689979911 , -73.9660020089 , Spanish Institute
+t, 40.7689979911 , -73.9662201911 , Spanish Institute
+t, 40.7687798089 , -73.9662201911 , Spanish Institute
+t, 40.7696131089 , -73.9676687089 , Republic of Indonesia Delegation To the United Nations
+t, 40.7698312911 , -73.9676687089 , Republic of Indonesia Delegation To the United Nations
+t, 40.7698312911 , -73.9678868911 , Republic of Indonesia Delegation To the United Nations
+t, 40.7696131089 , -73.9678868911 , Republic of Indonesia Delegation To the United Nations
+t, 40.7682242089 , -73.9676687089 , Egyptian Mission To the United Nations
+t, 40.7684423911 , -73.9676687089 , Egyptian Mission To the United Nations
+t, 40.7684423911 , -73.9678868911 , Egyptian Mission To the United Nations
+t, 40.7682242089 , -73.9678868911 , Egyptian Mission To the United Nations
+t, 40.7665576089 , -73.9657242089 , Cosmopolitan Club
+t, 40.7667757911 , -73.9657242089 , Cosmopolitan Club
+t, 40.7667757911 , -73.9659423911 , Cosmopolitan Club
+t, 40.7665576089 , -73.9659423911 , Cosmopolitan Club
+t, 40.7682242089 , -73.9687798089 , Permanent Mission of the Republic of Poland To the United Nations
+t, 40.7684423911 , -73.9687798089 , Permanent Mission of the Republic of Poland To the United Nations
+t, 40.7684423911 , -73.9689979911 , Permanent Mission of the Republic of Poland To the United Nations
+t, 40.7682242089 , -73.9689979911 , Permanent Mission of the Republic of Poland To the United Nations
+t, 40.7710020089 , -73.9668353089 , Catholic Center for the Blind
+t, 40.7712201911 , -73.9668353089 , Catholic Center for the Blind
+t, 40.7712201911 , -73.9670534911 , Catholic Center for the Blind
+t, 40.7710020089 , -73.9670534911 , Catholic Center for the Blind
+t, 40.7671131089 , -73.9676687089 , American Federation of the Arts
+t, 40.7673312911 , -73.9676687089 , American Federation of the Arts
+t, 40.7673312911 , -73.9678868911 , American Federation of the Arts
+t, 40.7671131089 , -73.9678868911 , American Federation of the Arts
+t, 40.7673909089 , -73.9696131089 , Permanent Mission of Pakistan To the United Nations
+t, 40.7676090911 , -73.9696131089 , Permanent Mission of Pakistan To the United Nations
+t, 40.7676090911 , -73.9698312911 , Permanent Mission of Pakistan To the United Nations
+t, 40.7673909089 , -73.9698312911 , Permanent Mission of Pakistan To the United Nations
+t, 40.7673909089 , -73.9687798089 , Kosciuszko Foundation
+t, 40.7676090911 , -73.9687798089 , Kosciuszko Foundation
+t, 40.7676090911 , -73.9689979911 , Kosciuszko Foundation
+t, 40.7673909089 , -73.9689979911 , Kosciuszko Foundation
+t, 40.7648909089 , -73.9687798089 , Colony Club
+t, 40.7651090911 , -73.9687798089 , Colony Club
+t, 40.7651090911 , -73.9689979911 , Colony Club
+t, 40.7648909089 , -73.9689979911 , Colony Club
+t, 40.7711034089 , -73.9672516089 , Frick Collection
+t, 40.7713215911 , -73.9672516089 , Frick Collection
+t, 40.7713215911 , -73.9674697911 , Frick Collection
+t, 40.7711034089 , -73.9674697911 , Frick Collection
+t, 40.7671131089 , -73.9637798089 , New York Engine Company 39
+t, 40.7673312911 , -73.9637798089 , New York Engine Company 39
+t, 40.7673312911 , -73.9639979911 , New York Engine Company 39
+t, 40.7671131089 , -73.9639979911 , New York Engine Company 39
+t, 40.7671131089 , -73.9637798089 , New York Ladder Company 16
+t, 40.7673312911 , -73.9637798089 , New York Ladder Company 16
+t, 40.7673312911 , -73.9639979911 , New York Ladder Company 16
+t, 40.7671131089 , -73.9639979911 , New York Ladder Company 16
+t, 40.7662798089 , -73.9676687089 , Swedish Consulate and Permanent Mission To the United Nations
+t, 40.7664979911 , -73.9676687089 , Swedish Consulate and Permanent Mission To the United Nations
+t, 40.7664979911 , -73.9678868911 , Swedish Consulate and Permanent Mission To the United Nations
+t, 40.7662798089 , -73.9678868911 , Swedish Consulate and Permanent Mission To the United Nations
+t, 40.7671131089 , -73.9637798089 , Nineteenth Precinct Police Station
+t, 40.7673312911 , -73.9637798089 , Nineteenth Precinct Police Station
+t, 40.7673312911 , -73.9639979911 , Nineteenth Precinct Police Station
+t, 40.7671131089 , -73.9639979911 , Nineteenth Precinct Police Station
+t, 40.7673909089 , -73.9701687089 , New India House
+t, 40.7676090911 , -73.9701687089 , New India House
+t, 40.7676090911 , -73.9703868911 , New India House
+t, 40.7673909089 , -73.9703868911 , New India House
+t, 40.7722878089 , -73.9694250089 , Statue
+t, 40.7725059911 , -73.9694250089 , Statue
+t, 40.7725059911 , -73.9696431911 , Statue
+t, 40.7722878089 , -73.9696431911 , Statue
+t, 40.7651687089 , -73.9673909089 , Third Church of Christ Scientist
+t, 40.7653868911 , -73.9673909089 , Third Church of Christ Scientist
+t, 40.7653868911 , -73.9676090911 , Third Church of Christ Scientist
+t, 40.7651687089 , -73.9676090911 , Third Church of Christ Scientist
+t, 40.7654465089 , -73.9671131089 , Central Presbyterian Church
+t, 40.7656646911 , -73.9671131089 , Central Presbyterian Church
+t, 40.7656646911 , -73.9673312911 , Central Presbyterian Church
+t, 40.7654465089 , -73.9673312911 , Central Presbyterian Church
+t, 40.7710020089 , -73.9654465089 , Saint James Episcopal Church
+t, 40.7712201911 , -73.9654465089 , Saint James Episcopal Church
+t, 40.7712201911 , -73.9656646911 , Saint James Episcopal Church
+t, 40.7710020089 , -73.9656646911 , Saint James Episcopal Church
+t, 40.7723909089 , -73.9646131089 , Madison Avenue Presbyterian Church
+t, 40.7726090911 , -73.9646131089 , Madison Avenue Presbyterian Church
+t, 40.7726090911 , -73.9648312911 , Madison Avenue Presbyterian Church
+t, 40.7723909089 , -73.9648312911 , Madison Avenue Presbyterian Church
+t, 40.7721131089 , -73.9621131089 , Church of the Resurrection
+t, 40.7723312911 , -73.9621131089 , Church of the Resurrection
+t, 40.7723312911 , -73.9623312911 , Church of the Resurrection
+t, 40.7721131089 , -73.9623312911 , Church of the Resurrection
+t, 40.7651687089 , -73.9587798089 , First Magyar Reformed Church of the City of New York
+t, 40.7653868911 , -73.9587798089 , First Magyar Reformed Church of the City of New York
+t, 40.7653868911 , -73.9589979911 , First Magyar Reformed Church of the City of New York
+t, 40.7651687089 , -73.9589979911 , First Magyar Reformed Church of the City of New York
+t, 40.7687798089 , -73.9590576089 , Knox Presbyterian Church (historical)
+t, 40.7689979911 , -73.9590576089 , Knox Presbyterian Church (historical)
+t, 40.7689979911 , -73.9592757911 , Knox Presbyterian Church (historical)
+t, 40.7687798089 , -73.9592757911 , Knox Presbyterian Church (historical)
+t, 40.7654465089 , -73.9671131089 , Park Avenue Baptist Church (historical)
+t, 40.7656646911 , -73.9671131089 , Park Avenue Baptist Church (historical)
+t, 40.7656646911 , -73.9673312911 , Park Avenue Baptist Church (historical)
+t, 40.7654465089 , -73.9673312911 , Park Avenue Baptist Church (historical)
+t, 40.7668353089 , -73.9635020089 , Park East Synagogue
+t, 40.7670534911 , -73.9635020089 , Park East Synagogue
+t, 40.7670534911 , -73.9637201911 , Park East Synagogue
+t, 40.7668353089 , -73.9637201911 , Park East Synagogue
+t, 40.7687798089 , -73.9590576089 , Saint John the Martyr Catholic Church
+t, 40.7689979911 , -73.9590576089 , Saint John the Martyr Catholic Church
+t, 40.7689979911 , -73.9592757911 , Saint John the Martyr Catholic Church
+t, 40.7687798089 , -73.9592757911 , Saint John the Martyr Catholic Church
+t, 40.7726687089 , -73.9601687089 , Saint Jean Baptiste Roman Catholic Church
+t, 40.7728868911 , -73.9601687089 , Saint Jean Baptiste Roman Catholic Church
+t, 40.7728868911 , -73.9603868911 , Saint Jean Baptiste Roman Catholic Church
+t, 40.7726687089 , -73.9603868911 , Saint Jean Baptiste Roman Catholic Church
+t, 40.7646438089 , -73.9663394089 , Lexington Avenue-63rd Street (F)
+t, 40.7648619911 , -73.9663394089 , Lexington Avenue-63rd Street (F)
+t, 40.7648619911 , -73.9665575911 , Lexington Avenue-63rd Street (F)
+t, 40.7646438089 , -73.9665575911 , Lexington Avenue-63rd Street (F)
+t, 40.7645139089 , -73.9621359089 , 222 E 65th Street
+t, 40.7647320911 , -73.9621359089 , 222 E 65th Street
+t, 40.7647320911 , -73.9623540911 , 222 E 65th Street
+t, 40.7645139089 , -73.9623540911 , 222 E 65th Street
+t, 40.7685937089 , -73.9596465089 , Marymount Manhattan College
+t, 40.7688118911 , -73.9596465089 , Marymount Manhattan College
+t, 40.7688118911 , -73.9598646911 , Marymount Manhattan College
+t, 40.7685937089 , -73.9598646911 , Marymount Manhattan College
+t, 40.7679069089 , -73.9640939089 , E 68th St & Lex Ave, NW corner
+t, 40.7681250911 , -73.9640939089 , E 68th St & Lex Ave, NW corner
+t, 40.7681250911 , -73.9643120911 , E 68th St & Lex Ave, NW corner
+t, 40.7679069089 , -73.9643120911 , E 68th St & Lex Ave, NW corner
+t, 40.7677943089 , -73.9637888089 , E 68th St & Lex Ave, NE corner
+t, 40.7680124911 , -73.9637888089 , E 68th St & Lex Ave, NE corner
+t, 40.7680124911 , -73.9640069911 , E 68th St & Lex Ave, NE corner
+t, 40.7677943089 , -73.9640069911 , E 68th St & Lex Ave, NE corner
+t, 40.7677457089 , -73.9641662089 , E 68th St & Lex Ave, SW corner
+t, 40.7679638911 , -73.9641662089 , E 68th St & Lex Ave, SW corner
+t, 40.7679638911 , -73.9643843911 , E 68th St & Lex Ave, SW corner
+t, 40.7677457089 , -73.9643843911 , E 68th St & Lex Ave, SW corner
+t, 40.7676636089 , -73.9639012089 , E 68th St & Lex Ave, SE corner
+t, 40.7678817911 , -73.9639012089 , E 68th St & Lex Ave, SE corner
+t, 40.7678817911 , -73.9641193911 , E 68th St & Lex Ave, SE corner
+t, 40.7676636089 , -73.9641193911 , E 68th St & Lex Ave, SE corner
+t, 40.7688052089 , -73.9692874089 , Federation of Yugoslavia Mission To the United Nations
+t, 40.7690233911 , -73.9692874089 , Federation of Yugoslavia Mission To the United Nations
+t, 40.7690233911 , -73.9695055911 , Federation of Yugoslavia Mission To the United Nations
+t, 40.7688052089 , -73.9695055911 , Federation of Yugoslavia Mission To the United Nations
+t, 40.7687665089 , -73.9693097089 , Temple Beth-El (historical)
+t, 40.7689846911 , -73.9693097089 , Temple Beth-El (historical)
+t, 40.7689846911 , -73.9695278911 , Temple Beth-El (historical)
+t, 40.7687665089 , -73.9695278911 , Temple Beth-El (historical)
+t, 40.7727603089 , -73.9700687089 , Rumsey Playfield Summer Stage
+t, 40.7729784911 , -73.9700687089 , Rumsey Playfield Summer Stage
+t, 40.7729784911 , -73.9702868911 , Rumsey Playfield Summer Stage
+t, 40.7727603089 , -73.9702868911 , Rumsey Playfield Summer Stage
+t, 40.7677582089 , -73.9639675089 , 68th Street-Hunter College (6)
+t, 40.7679763911 , -73.9639675089 , 68th Street-Hunter College (6)
+t, 40.7679763911 , -73.9641856911 , 68th Street-Hunter College (6)
+t, 40.7677582089 , -73.9641856911 , 68th Street-Hunter College (6)
+t, 40.7679149089 , -73.9701709089 , East 65th Street / 5th Avenue
+t, 40.7681330911 , -73.9701709089 , East 65th Street / 5th Avenue
+t, 40.7681330911 , -73.9703890911 , East 65th Street / 5th Avenue
+t, 40.7679149089 , -73.9703890911 , East 65th Street / 5th Avenue
+t, 40.7655049089 , -73.9605809089 , East 67th Street / 2nd Avenue
+t, 40.7657230911 , -73.9605809089 , East 67th Street / 2nd Avenue
+t, 40.7657230911 , -73.9607990911 , East 67th Street / 2nd Avenue
+t, 40.7655049089 , -73.9607990911 , East 67th Street / 2nd Avenue
+t, 40.7664509089 , -73.9628209089 , East 67th Street / 3rd Avenue
+t, 40.7666690911 , -73.9628209089 , East 67th Street / 3rd Avenue
+t, 40.7666690911 , -73.9630390911 , East 67th Street / 3rd Avenue
+t, 40.7664509089 , -73.9630390911 , East 67th Street / 3rd Avenue
+t, 40.7671259089 , -73.9644209089 , East 67th Street / Lexington Avenue
+t, 40.7673440911 , -73.9644209089 , East 67th Street / Lexington Avenue
+t, 40.7673440911 , -73.9646390911 , East 67th Street / Lexington Avenue
+t, 40.7671259089 , -73.9646390911 , East 67th Street / Lexington Avenue
+t, 40.7684879089 , -73.9676569089 , East 67th Street / Madison Avenue
+t, 40.7687060911 , -73.9676569089 , East 67th Street / Madison Avenue
+t, 40.7687060911 , -73.9678750911 , East 67th Street / Madison Avenue
+t, 40.7684879089 , -73.9678750911 , East 67th Street / Madison Avenue
+t, 40.7661309089 , -73.9601269089 , East 68th Street / 2nd Avenue
+t, 40.7663490911 , -73.9601269089 , East 68th Street / 2nd Avenue
+t, 40.7663490911 , -73.9603450911 , East 68th Street / 2nd Avenue
+t, 40.7661309089 , -73.9603450911 , East 68th Street / 2nd Avenue
+t, 40.7670709089 , -73.9623609089 , East 68th Street / 3rd Avenue
+t, 40.7672890911 , -73.9623609089 , East 68th Street / 3rd Avenue
+t, 40.7672890911 , -73.9625790911 , East 68th Street / 3rd Avenue
+t, 40.7670709089 , -73.9625790911 , East 68th Street / 3rd Avenue
+t, 40.7677479089 , -73.9639709089 , East 68th Street / Lexington Avenue
+t, 40.7679660911 , -73.9639709089 , East 68th Street / Lexington Avenue
+t, 40.7679660911 , -73.9641890911 , East 68th Street / Lexington Avenue
+t, 40.7677479089 , -73.9641890911 , East 68th Street / Lexington Avenue
+t, 40.7691109089 , -73.9672009089 , East 68th Street / Madison Avenue
+t, 40.7693290911 , -73.9672009089 , East 68th Street / Madison Avenue
+t, 40.7693290911 , -73.9674190911 , East 68th Street / Madison Avenue
+t, 40.7691109089 , -73.9674190911 , East 68th Street / Madison Avenue
+t, 40.7696409089 , -73.9604909089 , East 72nd Street / 3rd Avenue
+t, 40.7698590911 , -73.9604909089 , East 72nd Street / 3rd Avenue
+t, 40.7698590911 , -73.9607090911 , East 72nd Street / 3rd Avenue
+t, 40.7696409089 , -73.9607090911 , East 72nd Street / 3rd Avenue
+t, 40.7696409089 , -73.9604909089 , East 72nd Street / 3rd Avenue
+t, 40.7698590911 , -73.9604909089 , East 72nd Street / 3rd Avenue
+t, 40.7698590911 , -73.9607090911 , East 72nd Street / 3rd Avenue
+t, 40.7696409089 , -73.9607090911 , East 72nd Street / 3rd Avenue
+t, 40.7703149089 , -73.9621009089 , East 72nd Street / Lexington Avenue
+t, 40.7705330911 , -73.9621009089 , East 72nd Street / Lexington Avenue
+t, 40.7705330911 , -73.9623190911 , East 72nd Street / Lexington Avenue
+t, 40.7703149089 , -73.9623190911 , East 72nd Street / Lexington Avenue
+t, 40.7703149089 , -73.9621009089 , East 72nd Street / Lexington Avenue
+t, 40.7705330911 , -73.9621009089 , East 72nd Street / Lexington Avenue
+t, 40.7705330911 , -73.9623190911 , East 72nd Street / Lexington Avenue
+t, 40.7703149089 , -73.9623190911 , East 72nd Street / Lexington Avenue
+t, 40.7716729089 , -73.9653309089 , East 72nd Street / Madison Avenue
+t, 40.7718910911 , -73.9653309089 , East 72nd Street / Madison Avenue
+t, 40.7718910911 , -73.9655490911 , East 72nd Street / Madison Avenue
+t, 40.7716729089 , -73.9655490911 , East 72nd Street / Madison Avenue
+t, 40.7716729089 , -73.9653309089 , East 72nd Street / Madison Avenue
+t, 40.7718910911 , -73.9653309089 , East 72nd Street / Madison Avenue
+t, 40.7718910911 , -73.9655490911 , East 72nd Street / Madison Avenue
+t, 40.7716729089 , -73.9655490911 , East 72nd Street / Madison Avenue
+t, 40.7658749089 , -73.9653409089 , Lexington Avenue / East 65th Street
+t, 40.7660930911 , -73.9653409089 , Lexington Avenue / East 65th Street
+t, 40.7660930911 , -73.9655590911 , Lexington Avenue / East 65th Street
+t, 40.7658749089 , -73.9655590911 , Lexington Avenue / East 65th Street
+t, 40.7677479089 , -73.9639709089 , Lexington Avenue / East 68th Street
+t, 40.7679660911 , -73.9639709089 , Lexington Avenue / East 68th Street
+t, 40.7679660911 , -73.9641890911 , Lexington Avenue / East 68th Street
+t, 40.7677479089 , -73.9641890911 , Lexington Avenue / East 68th Street
+t, 40.7690009089 , -73.9630559089 , Lexington Avenue / East 70th Street
+t, 40.7692190911 , -73.9630559089 , Lexington Avenue / East 70th Street
+t, 40.7692190911 , -73.9632740911 , Lexington Avenue / East 70th Street
+t, 40.7690009089 , -73.9632740911 , Lexington Avenue / East 70th Street
+t, 40.7703149089 , -73.9621009089 , Lexington Avenue / East 72nd Street
+t, 40.7705330911 , -73.9621009089 , Lexington Avenue / East 72nd Street
+t, 40.7705330911 , -73.9623190911 , Lexington Avenue / East 72nd Street
+t, 40.7703149089 , -73.9623190911 , Lexington Avenue / East 72nd Street
+t, 40.7716269089 , -73.9611409089 , Lexington Avenue / East 74th Street
+t, 40.7718450911 , -73.9611409089 , Lexington Avenue / East 74th Street
+t, 40.7718450911 , -73.9613590911 , Lexington Avenue / East 74th Street
+t, 40.7716269089 , -73.9613590911 , Lexington Avenue / East 74th Street
+t, 40.7647309089 , -73.9703909089 , Madison Avenue / East 61st Street
+t, 40.7649490911 , -73.9703909089 , Madison Avenue / East 61st Street
+t, 40.7649490911 , -73.9706090911 , Madison Avenue / East 61st Street
+t, 40.7647309089 , -73.9706090911 , Madison Avenue / East 61st Street
+t, 40.7653609089 , -73.9699309089 , Madison Avenue / East 62nd Street
+t, 40.7655790911 , -73.9699309089 , Madison Avenue / East 62nd Street
+t, 40.7655790911 , -73.9701490911 , Madison Avenue / East 62nd Street
+t, 40.7653609089 , -73.9701490911 , Madison Avenue / East 62nd Street
+t, 40.7659809089 , -73.9694709089 , Madison Avenue / East 63rd Street
+t, 40.7661990911 , -73.9694709089 , Madison Avenue / East 63rd Street
+t, 40.7661990911 , -73.9696890911 , Madison Avenue / East 63rd Street
+t, 40.7659809089 , -73.9696890911 , Madison Avenue / East 63rd Street
+t, 40.7659809089 , -73.9694709089 , Madison Avenue / East 63rd Street
+t, 40.7661990911 , -73.9694709089 , Madison Avenue / East 63rd Street
+t, 40.7661990911 , -73.9696890911 , Madison Avenue / East 63rd Street
+t, 40.7659809089 , -73.9696890911 , Madison Avenue / East 63rd Street
+t, 40.7672309089 , -73.9685609089 , Madison Avenue / East 65th Street
+t, 40.7674490911 , -73.9685609089 , Madison Avenue / East 65th Street
+t, 40.7674490911 , -73.9687790911 , Madison Avenue / East 65th Street
+t, 40.7672309089 , -73.9687790911 , Madison Avenue / East 65th Street
+t, 40.7678579089 , -73.9681069089 , Madison Avenue / East 66th Street
+t, 40.7680760911 , -73.9681069089 , Madison Avenue / East 66th Street
+t, 40.7680760911 , -73.9683250911 , Madison Avenue / East 66th Street
+t, 40.7678579089 , -73.9683250911 , Madison Avenue / East 66th Street
+t, 40.7684879089 , -73.9676569089 , Madison Avenue / East 67th Street
+t, 40.7687060911 , -73.9676569089 , Madison Avenue / East 67th Street
+t, 40.7687060911 , -73.9678750911 , Madison Avenue / East 67th Street
+t, 40.7684879089 , -73.9678750911 , Madison Avenue / East 67th Street
+t, 40.7697389089 , -73.9667409089 , Madison Avenue / East 69th Street
+t, 40.7699570911 , -73.9667409089 , Madison Avenue / East 69th Street
+t, 40.7699570911 , -73.9669590911 , Madison Avenue / East 69th Street
+t, 40.7697389089 , -73.9669590911 , Madison Avenue / East 69th Street
+t, 40.7709859089 , -73.9658309089 , Madison Avenue / East 71st Street
+t, 40.7712040911 , -73.9658309089 , Madison Avenue / East 71st Street
+t, 40.7712040911 , -73.9660490911 , Madison Avenue / East 71st Street
+t, 40.7709859089 , -73.9660490911 , Madison Avenue / East 71st Street
+t, 40.7716729089 , -73.9653309089 , Madison Avenue / East 72nd Street
+t, 40.7718910911 , -73.9653309089 , Madison Avenue / East 72nd Street
+t, 40.7718910911 , -73.9655490911 , Madison Avenue / East 72nd Street
+t, 40.7716729089 , -73.9655490911 , Madison Avenue / East 72nd Street
+t, 40.7729889089 , -73.9643709089 , Madison Avenue / East 74th Street
+t, 40.7732070911 , -73.9643709089 , Madison Avenue / East 74th Street
+t, 40.7732070911 , -73.9645890911 , Madison Avenue / East 74th Street
+t, 40.7729889089 , -73.9645890911 , Madison Avenue / East 74th Street
+t, 40.7702839089 , -73.9662609089 , Madison Avenue / E 70th Street
+t, 40.7705020911 , -73.9662609089 , Madison Avenue / E 70th Street
+t, 40.7705020911 , -73.9664790911 , Madison Avenue / E 70th Street
+t, 40.7702839089 , -73.9664790911 , Madison Avenue / E 70th Street
+t, 40.7680109089 , -73.9587509089 , 2nd Avenue / E 71st Street
+t, 40.7682290911 , -73.9587509089 , 2nd Avenue / E 71st Street
+t, 40.7682290911 , -73.9589690911 , 2nd Avenue / E 71st Street
+t, 40.7680109089 , -73.9589690911 , 2nd Avenue / E 71st Street
+t, 40.7648749089 , -73.9610409089 , 2nd Avenue / East 66th Street
+t, 40.7650930911 , -73.9610409089 , 2nd Avenue / East 66th Street
+t, 40.7650930911 , -73.9612590911 , 2nd Avenue / East 66th Street
+t, 40.7648749089 , -73.9612590911 , 2nd Avenue / East 66th Street
+t, 40.7661309089 , -73.9601269089 , 2nd Avenue / East 68th Street
+t, 40.7663490911 , -73.9601269089 , 2nd Avenue / East 68th Street
+t, 40.7663490911 , -73.9603450911 , 2nd Avenue / East 68th Street
+t, 40.7661309089 , -73.9603450911 , 2nd Avenue / East 68th Street
+t, 40.7645739089 , -73.9641909089 , 3rd Avenue / East 64th Street
+t, 40.7647920911 , -73.9641909089 , 3rd Avenue / East 64th Street
+t, 40.7647920911 , -73.9644090911 , 3rd Avenue / East 64th Street
+t, 40.7645739089 , -73.9644090911 , 3rd Avenue / East 64th Street
+t, 40.7652009089 , -73.9637349089 , 3rd Avenue / East 65th Street
+t, 40.7654190911 , -73.9637349089 , 3rd Avenue / East 65th Street
+t, 40.7654190911 , -73.9639530911 , 3rd Avenue / East 65th Street
+t, 40.7652009089 , -73.9639530911 , 3rd Avenue / East 65th Street
+t, 40.7664509089 , -73.9628209089 , 3rd Avenue / East 67th Street
+t, 40.7666690911 , -73.9628209089 , 3rd Avenue / East 67th Street
+t, 40.7666690911 , -73.9630390911 , 3rd Avenue / East 67th Street
+t, 40.7664509089 , -73.9630390911 , 3rd Avenue / East 67th Street
+t, 40.7677009089 , -73.9619009089 , 3rd Avenue / East 69th Street
+t, 40.7679190911 , -73.9619009089 , 3rd Avenue / East 69th Street
+t, 40.7679190911 , -73.9621190911 , 3rd Avenue / East 69th Street
+t, 40.7677009089 , -73.9621190911 , 3rd Avenue / East 69th Street
+t, 40.7696409089 , -73.9604909089 , 3rd Avenue / East 72nd Street
+t, 40.7698590911 , -73.9604909089 , 3rd Avenue / East 72nd Street
+t, 40.7698590911 , -73.9607090911 , 3rd Avenue / East 72nd Street
+t, 40.7696409089 , -73.9607090911 , 3rd Avenue / East 72nd Street
+t, 40.7715889089 , -73.9590709089 , 3rd Avenue / East 75th Street
+t, 40.7718070911 , -73.9590709089 , 3rd Avenue / East 75th Street
+t, 40.7718070911 , -73.9592890911 , 3rd Avenue / East 75th Street
+t, 40.7715889089 , -73.9592890911 , 3rd Avenue / East 75th Street
+t, 40.7679149089 , -73.9701709089 , 5th Avenue / East 65th Street
+t, 40.7681330911 , -73.9701709089 , 5th Avenue / East 65th Street
+t, 40.7681330911 , -73.9703890911 , 5th Avenue / East 65th Street
+t, 40.7679149089 , -73.9703890911 , 5th Avenue / East 65th Street
+t, 40.7672809089 , -73.9706209089 , 5th Avenue / West 64th Street
+t, 40.7674990911 , -73.9706209089 , 5th Avenue / West 64th Street
+t, 40.7674990911 , -73.9708390911 , 5th Avenue / West 64th Street
+t, 40.7672809089 , -73.9708390911 , 5th Avenue / West 64th Street
+t, 40.7691589089 , -73.9692609089 , 5th Avenue / West 67th Street
+t, 40.7693770911 , -73.9692609089 , 5th Avenue / West 67th Street
+t, 40.7693770911 , -73.9694790911 , 5th Avenue / West 67th Street
+t, 40.7691589089 , -73.9694790911 , 5th Avenue / West 67th Street
+t, 40.7704059089 , -73.9683359089 , 5th Avenue / West 69th Street
+t, 40.7706240911 , -73.9683359089 , 5th Avenue / West 69th Street
+t, 40.7706240911 , -73.9685540911 , 5th Avenue / West 69th Street
+t, 40.7704059089 , -73.9685540911 , 5th Avenue / West 69th Street
+t, 40.7723479089 , -73.9669309089 , 5th Avenue / West 72nd Street
+t, 40.7725660911 , -73.9669309089 , 5th Avenue / West 72nd Street
+t, 40.7725660911 , -73.9671490911 , 5th Avenue / West 72nd Street
+t, 40.7723479089 , -73.9671490911 , 5th Avenue / West 72nd Street
+t, 40.7488119089 , -73.9777789089 , Brothers to the Rescue Corner
+t, 40.7490300911 , -73.9777789089 , Brothers to the Rescue Corner
+t, 40.7490300911 , -73.9779970911 , Brothers to the Rescue Corner
+t, 40.7488119089 , -73.9779970911 , Brothers to the Rescue Corner
+t, 40.7793848089 , -73.9554204089 , 86th Street (4,5,6)
+t, 40.7796029911 , -73.9554204089 , 86th Street (4,5,6)
+t, 40.7796029911 , -73.9556385911 , 86th Street (4,5,6)
+t, 40.7793848089 , -73.9556385911 , 86th Street (4,5,6)
+t, 40.7432046089 , -73.9839662089 , 28th Street (6)
+t, 40.7434227911 , -73.9839662089 , 28th Street (6)
+t, 40.7434227911 , -73.9841843911 , 28th Street (6)
+t, 40.7432046089 , -73.9841843911 , 28th Street (6)
+t, 40.7516645089 , -73.9767922089 , 42nd Street-Grand Central (S,4,5,6,7)
+t, 40.7518826911 , -73.9767922089 , 42nd Street-Grand Central (S,4,5,6,7)
+t, 40.7518826911 , -73.9770103911 , 42nd Street-Grand Central (S,4,5,6,7)
+t, 40.7516645089 , -73.9770103911 , 42nd Street-Grand Central (S,4,5,6,7)
+t, 40.7569988089 , -73.9717994089 , 51st Street (6)
+t, 40.7572169911 , -73.9717994089 , 51st Street (6)
+t, 40.7572169911 , -73.9720175911 , 51st Street (6)
+t, 40.7569988089 , -73.9720175911 , 51st Street (6)
+t, 40.7182998089 , -74.0004473089 , Canal Street (6)
+t, 40.7185179911 , -74.0004473089 , Canal Street (6)
+t, 40.7185179911 , -74.0006654911 , Canal Street (6)
+t, 40.7182998089 , -74.0006654911 , Canal Street (6)
+t, 40.7154623089 , -74.0029098089 , Worth Street (closed)
+t, 40.7156804911 , -74.0029098089 , Worth Street (closed)
+t, 40.7156804911 , -74.0031279911 , Worth Street (closed)
+t, 40.7154623089 , -74.0031279911 , Worth Street (closed)
+t, 40.7400696089 , -73.9862732089 , 23rd Street (6)
+t, 40.7402877911 , -73.9862732089 , 23rd Street (6)
+t, 40.7402877911 , -73.9864913911 , 23rd Street (6)
+t, 40.7400696089 , -73.9864913911 , 23rd Street (6)
+t, 40.7370468089 , -73.9884907089 , 18th Street (4,6)
+t, 40.7372649911 , -73.9884907089 , 18th Street (4,6)
+t, 40.7372649911 , -73.9887088911 , 18th Street (4,6)
+t, 40.7370468089 , -73.9887088911 , 18th Street (4,6)
+t, 40.7297422089 , -73.9912889089 , Astor Place (6)
+t, 40.7299603911 , -73.9912889089 , Astor Place (6)
+t, 40.7299603911 , -73.9915070911 , Astor Place (6)
+t, 40.7297422089 , -73.9915070911 , Astor Place (6)
+t, 40.7258380089 , -73.9945706089 , Bleecker Street (6)
+t, 40.7260561911 , -73.9945706089 , Bleecker Street (6)
+t, 40.7260561911 , -73.9947887911 , Bleecker Street (6)
+t, 40.7258380089 , -73.9947887911 , Bleecker Street (6)
+t, 40.7221900089 , -73.9970755089 , Spring Street (6)
+t, 40.7224081911 , -73.9970755089 , Spring Street (6)
+t, 40.7224081911 , -73.9972936911 , Spring Street (6)
+t, 40.7221900089 , -73.9972936911 , Spring Street (6)
+t, 40.7462856089 , -73.9817202089 , 33rd Street (6)
+t, 40.7465037911 , -73.9817202089 , 33rd Street (6)
+t, 40.7465037911 , -73.9819383911 , 33rd Street (6)
+t, 40.7462856089 , -73.9819383911 , 33rd Street (6)
+t, 40.7735308089 , -73.9597377089 , 77th Street (6)
+t, 40.7737489911 , -73.9597377089 , 77th Street (6)
+t, 40.7737489911 , -73.9599558911 , 77th Street (6)
+t, 40.7735308089 , -73.9599558911 , 77th Street (6)
+t, 40.7857556089 , -73.9507901089 , 96th Street (6)
+t, 40.7859737911 , -73.9507901089 , 96th Street (6)
+t, 40.7859737911 , -73.9510082911 , 96th Street (6)
+t, 40.7857556089 , -73.9510082911 , 96th Street (6)
+t, 40.7946797089 , -73.9442427089 , 110th Street (6)
+t, 40.7948978911 , -73.9442427089 , 110th Street (6)
+t, 40.7948978911 , -73.9444608911 , 110th Street (6)
+t, 40.7946797089 , -73.9444608911 , 110th Street (6)
+t, 40.7984824089 , -73.9414588089 , 116th Street (6)
+t, 40.7987005911 , -73.9414588089 , 116th Street (6)
+t, 40.7987005911 , -73.9416769911 , 116th Street (6)
+t, 40.7984824089 , -73.9416769911 , 116th Street (6)
+t, 40.7901886089 , -73.9475153089 , 103rd Street (6)
+t, 40.7904067911 , -73.9475153089 , 103rd Street (6)
+t, 40.7904067911 , -73.9477334911 , 103rd Street (6)
+t, 40.7901886089 , -73.9477334911 , 103rd Street (6)
+t, 40.8042135089 , -73.9373003089 , 125th Street (4,5,6)
+t, 40.8044316911 , -73.9373003089 , 125th Street (4,5,6)
+t, 40.8044316911 , -73.9375184911 , 125th Street (4,5,6)
+t, 40.8042135089 , -73.9375184911 , 125th Street (4,5,6)
+t, 40.7122300089 , -74.0049606089 , Brooklyn Bridge-City Hall (4,5,6)
+t, 40.7124481911 , -74.0049606089 , Brooklyn Bridge-City Hall (4,5,6)
+t, 40.7124481911 , -74.0051787911 , Brooklyn Bridge-City Hall (4,5,6)
+t, 40.7122300089 , -74.0051787911 , Brooklyn Bridge-City Hall (4,5,6)
+t, 40.7625811089 , -73.9677544089 , 59th Street (4,5,6)
+t, 40.7627992911 , -73.9677544089 , 59th Street (4,5,6)
+t, 40.7627992911 , -73.9679725911 , 59th Street (4,5,6)
+t, 40.7625811089 , -73.9679725911 , 59th Street (4,5,6)
+t, 40.7343097089 , -73.9897771089 , 14th Street-Union Square (4,5,6)
+t, 40.7345278911 , -73.9897771089 , 14th Street-Union Square (4,5,6)
+t, 40.7345278911 , -73.9899952911 , 14th Street-Union Square (4,5,6)
+t, 40.7343097089 , -73.9899952911 , 14th Street-Union Square (4,5,6)
