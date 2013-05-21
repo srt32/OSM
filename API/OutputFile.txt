@@ -1,0 +1,25 @@
+gmaps, latitude, longitude, name
+t, 42.0896883089 , -75.9681447089 , State University of New York at Binghamton
+t, 42.0899064911 , -75.9681447089 , State University of New York at Binghamton
+t, 42.0899064911 , -75.9683628911 , State University of New York at Binghamton
+t, 42.0896883089 , -75.9683628911 , State University of New York at Binghamton
+t, 42.0899661089 , -75.9675891089 , WHRW-FM (Binghamton)
+t, 42.0901842911 , -75.9675891089 , WHRW-FM (Binghamton)
+t, 42.0901842911 , -75.9678072911 , WHRW-FM (Binghamton)
+t, 42.0899661089 , -75.9678072911 , WHRW-FM (Binghamton)
+t, 42.0857262089 , -75.9666128089 , College-in-The-Woods
+t, 42.0859443911 , -75.9666128089 , College-in-The-Woods
+t, 42.0859443911 , -75.9668309911 , College-in-The-Woods
+t, 42.0857262089 , -75.9668309911 , College-in-The-Woods
+t, 42.0857710089 , -75.9752257089 , Susquehanna Community
+t, 42.0859891911 , -75.9752257089 , Susquehanna Community
+t, 42.0859891911 , -75.9754438911 , Susquehanna Community
+t, 42.0857710089 , -75.9754438911 , Susquehanna Community
+t, 42.0846751089 , -75.9701104089 , Mountainview
+t, 42.0848932911 , -75.9701104089 , Mountainview
+t, 42.0848932911 , -75.9703285911 , Mountainview
+t, 42.0846751089 , -75.9703285911 , Mountainview
+t, 42.0865941089 , -75.9721381089 , Hinman
+t, 42.0868122911 , -75.9721381089 , Hinman
+t, 42.0868122911 , -75.9723562911 , Hinman
+t, 42.0865941089 , -75.9723562911 , Hinman
