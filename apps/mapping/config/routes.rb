@@ -1,4 +1,7 @@
 Mapping::Application.routes.draw do
+  resources :schools
+
+
   root :to => 'datapoints#index'
 
   resources :calls do
