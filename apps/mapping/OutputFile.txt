@@ -1,9 +1,5 @@
 gmaps, latitude, longitude, name
-t, 32.9576399089 , -111.652108809 , Central Arizona College
-t, 32.9578580911 , -111.652108809 , Central Arizona College
-t, 32.9578580911 , -111.652326991 , Central Arizona College
-t, 32.9576399089 , -111.652326991 , Central Arizona College
-t, 32.9582834089 , -111.651963409 , Central Arizona College
-t, 32.9585015911 , -111.651963409 , Central Arizona College
-t, 32.9585015911 , -111.652181591 , Central Arizona College
-t, 32.9582834089 , -111.652181591 , Central Arizona College
+t, 40.1407242089 , -82.9660020089 , Center Point Church
+t, 40.1409423911 , -82.9660020089 , Center Point Church
+t, 40.1409423911 , -82.9662201911 , Center Point Church
+t, 40.1407242089 , -82.9662201911 , Center Point Church

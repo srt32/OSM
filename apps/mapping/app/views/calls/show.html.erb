@@ -33,4 +33,4 @@
 
 <%= link_to 'Edit', edit_call_path(@call) %> |
 <%= link_to 'Back', calls_path %> ||| 
-<%= link_to 'Run It', confirm_call_path(@call) %>
+<%= link_to 'Run It!', runIt_call_path(@call), data: { confirm: 'Are you sure?' }  %>
