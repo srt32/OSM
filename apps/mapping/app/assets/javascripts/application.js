@@ -13,3 +13,23 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+
+
+// this code should be in calls.js.coffee but I can't get it to load properly
+  $(document).ready(function() {
+
+    $('#form').hide();
+    $('#button-hide').hide();
+
+    $('#button-show').click(function() {
+     $('#form').show();//Form shows on button click
+     $('#button-show').hide();
+     $('#button-hide').show();
+    });
+
+    $('#button-hide').click(function() {
+      $('#form').hide();
+      $('#button-hide').hide();
+      $('#button-show').show();
+    });
+  });
