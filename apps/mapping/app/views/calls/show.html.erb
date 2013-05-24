@@ -1,36 +1,65 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <b>Script name:</b>
-  <%= @call.script_name %>
-</p>
+<script>
+  $(document).ready(function() {
 
-<p>
-  <b>School data filename:</b>
-  <%= @call.school_data_filename %>
-</p>
+    $('#form').hide(); //Initially form wil be hidden.
+    $('#button-hide').hide();
 
-<p>
-  <b>School name:</b>
-  <%= @call.school_name %>
-</p>
+    $('#button-show').click(function() {
+     $('#form').show();//Form shows on button click
+     $('#button-show').hide();
+     $('#button-hide').show();
+    });
 
-<p>
-  <b>Api response filename:</b>
-  <%= @call.API_response_filename %>
-</p>
+    $('#button-hide').click(function() {
+      $('#form').hide();
+      $('#button-hide').hide();
+      $('#button-show').show();
+    });
+  });
+</script>
 
-<p>
-  <b>Dp rails filename:</b>
-  <%= @call.DP_rails_filename %>
-</p>
+<div id="button-show">
+  <%= button_tag "Show Form" %>
+</div>
+<div id="button-hide">
+  <%= button_tag "Hide Form" %>
+</div>
 
-<p>
-  <b>Dp db filename:</b>
-  <%= @call.DP_DB_filename %>
-</p>
+<div id="form">
+  <p>
+    <b>Script name:</b>
+    <%= @call.script_name %>
+  </p>
+
+  <p>
+    <b>School data filename:</b>
+    <%= @call.school_data_filename %>
+  </p>
+
+  <p>
+    <b>School name:</b>
+    <%= @call.school_name %>
+  </p>
+
+  <p>
+    <b>Api response filename:</b>
+    <%= @call.API_response_filename %>
+  </p>
+
+  <p>
+    <b>Dp rails filename:</b>
+    <%= @call.DP_rails_filename %>
+  </p>
+
+  <p>
+    <b>Dp db filename:</b>
+    <%= @call.DP_DB_filename %>
+  </p>
 
 
-<%= link_to 'Edit', edit_call_path(@call) %> |
-<%= link_to 'Back', calls_path %> ||| 
-<%= link_to 'Run It!', runIt_call_path(@call), data: { confirm: 'Are you sure?' }  %>
+  <%= link_to 'Edit', edit_call_path(@call) %> |
+  <%= link_to 'Back', calls_path %> ||| 
+  <%= link_to 'Run It!', runIt_call_path(@call), data: { confirm: 'Are you sure?' }  %>
+</div>
