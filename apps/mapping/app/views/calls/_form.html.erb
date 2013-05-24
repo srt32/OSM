@@ -19,10 +19,12 @@
     <%= f.label :school_data_filename %><br />
     <%= f.text_field :school_data_filename %>
   </div>
+
   <div class="field">
     <%= f.label :school_name %><br />
-    <%= f.text_field :school_name %>
+    <%= f.collection_select(:school_name, School.order("title DESC").all, :title, :title) %>
   </div>
+
   <div class="field">
     <%= f.label :API_response_filename %><br />
     <%= f.text_field :API_response_filename %>
