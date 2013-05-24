@@ -13,11 +13,12 @@
 
   <div class="field">
     <%= f.label :script_name %><br />
-    <%= f.text_field :script_name %>
+    <%= f.text_field :script_name, :placeholder => "OSM_All.py" %>
   </div>
+
   <div class="field">
     <%= f.label :school_data_filename %><br />
-    <%= f.text_field :school_data_filename %>
+    <%= f.text_field :school_data_filename, :placeholder => "schools_full.xml" %> 
   </div>
 
   <div class="field">
@@ -27,15 +28,15 @@
 
   <div class="field">
     <%= f.label :API_response_filename %><br />
-    <%= f.text_field :API_response_filename %>
+    <%= f.text_field :API_response_filename, :placeholder => "testOutput.txt" %>
   </div>
   <div class="field">
     <%= f.label :DP_rails_filename %><br />
-    <%= f.text_field :DP_rails_filename %>
+    <%= f.text_field :DP_rails_filename, :placeholder => "OutputFile.txt" %>
   </div>
   <div class="field">
     <%= f.label :DP_DB_filename %><br />
-    <%= f.text_field :DP_DB_filename %>
+    <%= f.text_field :DP_DB_filename, :placeholder => "OutputFileDB.txt" %>
   </div>
   <div class="actions">
     <%= f.submit %>
