@@ -1,8 +1,10 @@
 class InstitutionsController < ApplicationController
   # GET /institutions
   # GET /institutions.json
+  
   def index
     @institutions = Institution.all
+    @json = @institutions.to_gmaps4rails
 
     respond_to do |format|
       format.html # index.html.erb
