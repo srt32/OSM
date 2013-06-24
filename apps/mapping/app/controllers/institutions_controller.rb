@@ -3,8 +3,20 @@ class InstitutionsController < ApplicationController
   # GET /institutions.json
   
   def index
-    @institutions = Institution.all
-    @json = @institutions.to_gmaps4rails
+    if params[:search].present?
+      @institutions = Institution.near(params[:search], 50, :order => :distance)
+      if @institutions.empty?
+        @json = Institution.all.to_gmaps4rails
+        flash.now[:notice] = "Nothin around, bummer."
+      else
+        @institutions
+        @json = @institutions.to_gmaps4rails
+        @schoolSearchCount = @institutions.length
+      end
+    else
+      @institutions = Institution.limit(1000)
+      @json = @institutions.to_gmaps4rails
+    end
 
     respond_to do |format|
       format.html # index.html.erb

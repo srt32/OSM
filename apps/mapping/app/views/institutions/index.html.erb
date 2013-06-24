@@ -1,6 +1,18 @@
 <%= gmaps4rails(@json) %>
 
-<h1>Listing institutions</h1>
+Search within 50 miles
+<%= form_tag institutions_path, :method => :get do %>
+  <p>
+    <%= text_field_tag :search, params[:search] %>
+    <%= submit_tag "Search Near", :name => nil %>
+  </p>
+<% end %>
+
+<% if params[:search].present? %>
+    <h1>Number of schools found <%= @schoolSearchCount %></h1>
+<% end %>
+
+<h2>Listing institutions</h2>
 
 <table>
   <tr>
