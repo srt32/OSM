@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130523234443) do
+ActiveRecord::Schema.define(:version => 20130624181122) do
 
   create_table "calls", :force => true do |t|
     t.string   "script_name"
@@ -26,6 +26,15 @@ ActiveRecord::Schema.define(:version => 20130523234443) do
 
   create_table "datapoints", :force => true do |t|
     t.text     "name"
+    t.float    "latitude"
+    t.float    "longitude"
+    t.boolean  "gmaps"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  create_table "institutions", :force => true do |t|
+    t.string   "title"
     t.float    "latitude"
     t.float    "longitude"
     t.boolean  "gmaps"

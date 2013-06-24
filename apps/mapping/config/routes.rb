@@ -1,4 +1,7 @@
 Mapping::Application.routes.draw do
+  resources :institutions
+
+
   resources :schools
 
 

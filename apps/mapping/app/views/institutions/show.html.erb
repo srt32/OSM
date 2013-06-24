@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Id:</b>
+  <%= @institution.id %>
+</p>
+
+<p>
+  <b>Title:</b>
+  <%= @institution.title %>
+</p>
+
+<p>
+  <b>Latitude:</b>
+  <%= @institution.latitude %>
+</p>
+
+<p>
+  <b>Longitude:</b>
+  <%= @institution.longitude %>
+</p>
+
+<p>
+  <b>Gmaps:</b>
+  <%= @institution.gmaps %>
+</p>
+
+
+<%= link_to 'Edit', edit_institution_path(@institution) %> |
+<%= link_to 'Back', institutions_path %>
