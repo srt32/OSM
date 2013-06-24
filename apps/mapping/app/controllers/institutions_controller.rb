@@ -4,17 +4,17 @@ class InstitutionsController < ApplicationController
   
   def index
     if params[:search].present?
-      @institutions = Institution.near(params[:search], 50, :order => :distance)
+      @institutions = Institution.near(params[:search], 50, :order => :distance).page(params[:page]).per(100)
       if @institutions.empty?
         @json = Institution.all.to_gmaps4rails
         flash.now[:notice] = "Nothin around, bummer."
       else
-        @institutions
+        @institutions.page(params[:page]).per(100)
         @json = @institutions.to_gmaps4rails
         @schoolSearchCount = @institutions.length
       end
     else
-      @institutions = Institution.limit(1000)
+      @institutions = Institution.order("id").page(params[:page]).per(100)
       @json = @institutions.to_gmaps4rails
     end
 

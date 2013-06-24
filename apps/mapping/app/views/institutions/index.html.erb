@@ -1,6 +1,6 @@
 <%= gmaps4rails(@json) %>
 
-Search within 50 miles
+Search for 100 schools within 50 miles
 <%= form_tag institutions_path, :method => :get do %>
   <p>
     <%= text_field_tag :search, params[:search] %>
@@ -25,6 +25,8 @@ Search within 50 miles
     <th></th>
     <th></th>
   </tr>
+
+<%= paginate @institutions %>
 
 <% @institutions.each do |institution| %>
   <tr>
