@@ -13,4 +13,8 @@ class Institution < ActiveRecord::Base
   def address
   	[title].compact.join(', ')
   end
+
+  def gmaps4rails_infowindow
+    "#{self.title}"
+  end
 end
