@@ -4,7 +4,7 @@ class CallsController < ApplicationController
   
   def runIt # need to add a button on the Confirm page to get here.
     @call = Call.find(params[:id])
-    @cmd = "python " + @call.script_name + @call.school_data_filename + @call.school_name + @call.API_response_filename + @call.DP_rails_filename + @call.DP_DB_filename
+    @cmd = "python " + @call.script_name + @call.school_data_filename + @call.school_name + ' ' + @call.API_response_filename + @call.DP_rails_filename + ' ' + @call.DP_DB_filename
 
     @output = `#{@cmd} 2>&1`; result=$?.success?
   end

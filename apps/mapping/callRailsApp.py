@@ -9,7 +9,7 @@ def callRailsApp(OutputFile):
 
 	print "# need to cd to correct directory -- /Users/Simon/campuscene/osm/apps/mapping"
 	#subprocess.call("pwd", shell=True)
-	os.chdir("/Users/Simon/campuscene/osm/apps/mapping")
+	os.chdir("/Users/Simon/campuscene/Apps/osm/apps/mapping")
 	#subprocess.call("pwd", shell=True)
 	pwd = os.getcwd()
 	print "pwd is " + pwd

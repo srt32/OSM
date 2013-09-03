@@ -11,12 +11,14 @@ def OSMAPICall(left,bot,right,top,outputName,schoolName,schoolID,OutputFile):
 	fileName = str(outputName) # "testAPIOutput_2.txt" 
 	o_file = open(fileName, "w")
 
-	left = str(left) # str(11.54) 
-	bottom = str(bot) # str(48.14)
-	right = str(right) # str(11.543)
-	top = str(top) # str(48.145)
+	left = str(left).lstrip(' ') 
+	bottom = str(bot).lstrip(' ')
+	right = str(right).lstrip(' ')
+	top = str(top).lstrip(' ')
 
-	link = "http://api.openstreetmap.org/api/0.6/map?bbox=" + left + "," + bottom + "," + right + "," + top
+	print "BLAH" + left + "BLAH"
+
+	link = "http://api.openstreetmap.org/api/0.6/map?bbox=" + left + "," + top + "," + right + "," + bottom
 
 	cmdCall = "curl " + '"' + link + '"'
 

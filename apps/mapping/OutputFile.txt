@@ -1,5 +1,645 @@
 gmaps, latitude, longitude, name
-t, 40.1407242089 , -82.9660020089 , Center Point Church
-t, 40.1409423911 , -82.9660020089 , Center Point Church
-t, 40.1409423911 , -82.9662201911 , Center Point Church
-t, 40.1407242089 , -82.9662201911 , Center Point Church
+t, 42.4535747089 , -76.4678858089 , Forest Home
+t, 42.4537928911 , -76.4678858089 , Forest Home
+t, 42.4537928911 , -76.4681039911 , Forest Home
+t, 42.4535747089 , -76.4681039911 , Forest Home
+t, 42.4421131089 , -76.4835020089 , Cascadilla School
+t, 42.4423312911 , -76.4835020089 , Cascadilla School
+t, 42.4423312911 , -76.4837201911 , Cascadilla School
+t, 42.4421131089 , -76.4837201911 , Cascadilla School
+t, 42.4497909089 , -76.4724909089 , Comstock Knoll
+t, 42.4500090911 , -76.4724909089 , Comstock Knoll
+t, 42.4500090911 , -76.4727090911 , Comstock Knoll
+t, 42.4497909089 , -76.4727090911 , Comstock Knoll
+t, 42.4495909089 , -76.4715909089 , Plantations Lewis Education Center
+t, 42.4498090911 , -76.4715909089 , Plantations Lewis Education Center
+t, 42.4498090911 , -76.4718090911 , Plantations Lewis Education Center
+t, 42.4495909089 , -76.4718090911 , Plantations Lewis Education Center
+t, 42.4478909089 , -76.4663909089 , Muenscher Garden
+t, 42.4481090911 , -76.4663909089 , Muenscher Garden
+t, 42.4481090911 , -76.4666090911 , Muenscher Garden
+t, 42.4478909089 , -76.4666090911 , Muenscher Garden
+t, 42.4492909089 , -76.4766909089 , Deans Garden
+t, 42.4495090911 , -76.4766909089 , Deans Garden
+t, 42.4495090911 , -76.4769090911 , Deans Garden
+t, 42.4492909089 , -76.4769090911 , Deans Garden
+t, 42.4489909089 , -76.4759909089 , Students Centennial Garden
+t, 42.4492090911 , -76.4759909089 , Students Centennial Garden
+t, 42.4492090911 , -76.4762090911 , Students Centennial Garden
+t, 42.4489909089 , -76.4762090911 , Students Centennial Garden
+t, 42.4479909089 , -76.4812909089 , Farrand Garden
+t, 42.4482090911 , -76.4812909089 , Farrand Garden
+t, 42.4482090911 , -76.4815090911 , Farrand Garden
+t, 42.4479909089 , -76.4815090911 , Farrand Garden
+t, 42.4476909089 , -76.4803909089 , Rockwell Azalea Garden
+t, 42.4479090911 , -76.4803909089 , Rockwell Azalea Garden
+t, 42.4479090911 , -76.4806090911 , Rockwell Azalea Garden
+t, 42.4476909089 , -76.4806090911 , Rockwell Azalea Garden
+t, 42.4454909089 , -76.4852909089 , Gannett Health Center
+t, 42.4457090911 , -76.4852909089 , Gannett Health Center
+t, 42.4457090911 , -76.4855090911 , Gannett Health Center
+t, 42.4454909089 , -76.4855090911 , Gannett Health Center
+t, 42.4465909089 , -76.4820909089 , Peter Plaza
+t, 42.4468090911 , -76.4820909089 , Peter Plaza
+t, 42.4468090911 , -76.4823090911 , Peter Plaza
+t, 42.4465909089 , -76.4823090911 , Peter Plaza
+t, 42.4464909089 , -76.4725909089 , Robert J Kane Sports Complex
+t, 42.4467090911 , -76.4725909089 , Robert J Kane Sports Complex
+t, 42.4467090911 , -76.4728090911 , Robert J Kane Sports Complex
+t, 42.4464909089 , -76.4728090911 , Robert J Kane Sports Complex
+t, 42.4465909089 , -76.4753909089 , Robison Alumni Fields
+t, 42.4468090911 , -76.4753909089 , Robison Alumni Fields
+t, 42.4468090911 , -76.4756090911 , Robison Alumni Fields
+t, 42.4465909089 , -76.4756090911 , Robison Alumni Fields
+t, 42.4470909089 , -76.4841909089 , Sage Chapel
+t, 42.4473090911 , -76.4841909089 , Sage Chapel
+t, 42.4473090911 , -76.4844090911 , Sage Chapel
+t, 42.4470909089 , -76.4844090911 , Sage Chapel
+t, 42.4412798089 , -76.4785020089 , Fairview Manor
+t, 42.4414979911 , -76.4785020089 , Fairview Manor
+t, 42.4414979911 , -76.4787201911 , Fairview Manor
+t, 42.4412798089 , -76.4787201911 , Fairview Manor
+t, 42.4487909089 , -76.4879909089 , Baker Tower
+t, 42.4490090911 , -76.4879909089 , Baker Tower
+t, 42.4490090911 , -76.4882090911 , Baker Tower
+t, 42.4487909089 , -76.4882090911 , Baker Tower
+t, 42.4553909089 , -76.4757909089 , Jerome H Holland International Living Center
+t, 42.4556090911 , -76.4757909089 , Jerome H Holland International Living Center
+t, 42.4556090911 , -76.4760090911 , Jerome H Holland International Living Center
+t, 42.4553909089 , -76.4760090911 , Jerome H Holland International Living Center
+t, 42.4528909089 , -76.4791909089 , Carol Tatkon Center
+t, 42.4531090911 , -76.4791909089 , Carol Tatkon Center
+t, 42.4531090911 , -76.4794090911 , Carol Tatkon Center
+t, 42.4528909089 , -76.4794090911 , Carol Tatkon Center
+t, 42.4525909089 , -76.4743909089 , Fuertes Observatory
+t, 42.4528090911 , -76.4743909089 , Fuertes Observatory
+t, 42.4528090911 , -76.4746090911 , Fuertes Observatory
+t, 42.4525909089 , -76.4746090911 , Fuertes Observatory
+t, 42.4480909089 , -76.4717909089 , McClintock Shed
+t, 42.4483090911 , -76.4717909089 , McClintock Shed
+t, 42.4483090911 , -76.4720090911 , McClintock Shed
+t, 42.4480909089 , -76.4720090911 , McClintock Shed
+t, 42.4431909089 , -76.4827909089 , Ward Center For Nuclear Sciences
+t, 42.4434090911 , -76.4827909089 , Ward Center For Nuclear Sciences
+t, 42.4434090911 , -76.4830090911 , Ward Center For Nuclear Sciences
+t, 42.4431909089 , -76.4830090911 , Ward Center For Nuclear Sciences
+t, 42.4455909089 , -76.4772909089 , Lynah Rink
+t, 42.4458090911 , -76.4772909089 , Lynah Rink
+t, 42.4458090911 , -76.4775090911 , Lynah Rink
+t, 42.4455909089 , -76.4775090911 , Lynah Rink
+t, 42.4473909089 , -76.4848909089 , Jennie McGraw Tower
+t, 42.4476090911 , -76.4848909089 , Jennie McGraw Tower
+t, 42.4476090911 , -76.4851090911 , Jennie McGraw Tower
+t, 42.4473909089 , -76.4851090911 , Jennie McGraw Tower
+t, 42.4476909089 , -76.4840909089 , Olin Library
+t, 42.4479090911 , -76.4840909089 , Olin Library
+t, 42.4479090911 , -76.4843090911 , Olin Library
+t, 42.4476909089 , -76.4843090911 , Olin Library
+t, 42.4485909089 , -76.4761909089 , Mann Library Building
+t, 42.4488090911 , -76.4761909089 , Mann Library Building
+t, 42.4488090911 , -76.4764090911 , Mann Library Building
+t, 42.4485909089 , -76.4764090911 , Mann Library Building
+t, 42.4475909089 , -76.4851909089 , Uris Library
+t, 42.4478090911 , -76.4851909089 , Uris Library
+t, 42.4478090911 , -76.4854090911 , Uris Library
+t, 42.4475909089 , -76.4854090911 , Uris Library
+t, 42.4476909089 , -76.4662909089 , Law Auditorium
+t, 42.4479090911 , -76.4662909089 , Law Auditorium
+t, 42.4479090911 , -76.4665090911 , Law Auditorium
+t, 42.4476909089 , -76.4665090911 , Law Auditorium
+t, 42.4547909089 , -76.4775909089 , Mary Donlon Hall
+t, 42.4550090911 , -76.4775909089 , Mary Donlon Hall
+t, 42.4550090911 , -76.4778090911 , Mary Donlon Hall
+t, 42.4547909089 , -76.4778090911 , Mary Donlon Hall
+t, 42.4545909089 , -76.4791909089 , Clara Dickson Hall
+t, 42.4548090911 , -76.4791909089 , Clara Dickson Hall
+t, 42.4548090911 , -76.4794090911 , Clara Dickson Hall
+t, 42.4545909089 , -76.4794090911 , Clara Dickson Hall
+t, 42.4553909089 , -76.4778909089 , George Jameson Hall
+t, 42.4556090911 , -76.4778909089 , George Jameson Hall
+t, 42.4556090911 , -76.4781090911 , George Jameson Hall
+t, 42.4553909089 , -76.4781090911 , George Jameson Hall
+t, 42.4494909089 , -76.4728909089 , Nearing Summer House
+t, 42.4497090911 , -76.4728909089 , Nearing Summer House
+t, 42.4497090911 , -76.4731090911 , Nearing Summer House
+t, 42.4494909089 , -76.4731090911 , Nearing Summer House
+t, 42.4492909089 , -76.4623909089 , Leland Laboratory
+t, 42.4495090911 , -76.4623909089 , Leland Laboratory
+t, 42.4495090911 , -76.4626090911 , Leland Laboratory
+t, 42.4492909089 , -76.4626090911 , Leland Laboratory
+t, 42.4533909089 , -76.4796909089 , Balch Hall
+t, 42.4536090911 , -76.4796909089 , Balch Hall
+t, 42.4536090911 , -76.4799090911 , Balch Hall
+t, 42.4533909089 , -76.4799090911 , Balch Hall
+t, 42.4478909089 , -76.4660909089 , Schurman Hall
+t, 42.4481090911 , -76.4660909089 , Schurman Hall
+t, 42.4481090911 , -76.4663090911 , Schurman Hall
+t, 42.4478909089 , -76.4663090911 , Schurman Hall
+t, 42.4497909089 , -76.4784909089 , Martha Van Rensselaer Hall
+t, 42.4500090911 , -76.4784909089 , Martha Van Rensselaer Hall
+t, 42.4500090911 , -76.4787090911 , Martha Van Rensselaer Hall
+t, 42.4497909089 , -76.4787090911 , Martha Van Rensselaer Hall
+t, 42.4490909089 , -76.4616909089 , Love Laboratory
+t, 42.4493090911 , -76.4616909089 , Love Laboratory
+t, 42.4493090911 , -76.4619090911 , Love Laboratory
+t, 42.4490909089 , -76.4619090911 , Love Laboratory
+t, 42.4471909089 , -76.4602909089 , Guterman Bioclimatic Laboratory
+t, 42.4474090911 , -76.4602909089 , Guterman Bioclimatic Laboratory
+t, 42.4474090911 , -76.4605090911 , Guterman Bioclimatic Laboratory
+t, 42.4471909089 , -76.4605090911 , Guterman Bioclimatic Laboratory
+t, 42.4475909089 , -76.4739909089 , Rice Hall
+t, 42.4478090911 , -76.4739909089 , Rice Hall
+t, 42.4478090911 , -76.4742090911 , Rice Hall
+t, 42.4475909089 , -76.4742090911 , Rice Hall
+t, 42.4482909089 , -76.4748909089 , Fernow Hall
+t, 42.4485090911 , -76.4748909089 , Fernow Hall
+t, 42.4485090911 , -76.4751090911 , Fernow Hall
+t, 42.4482909089 , -76.4751090911 , Fernow Hall
+t, 42.4487909089 , -76.4740909089 , Beebe Hall
+t, 42.4490090911 , -76.4740909089 , Beebe Hall
+t, 42.4490090911 , -76.4743090911 , Beebe Hall
+t, 42.4487909089 , -76.4743090911 , Beebe Hall
+t, 42.4480909089 , -76.4738909089 , Bruckner Laboratory
+t, 42.4483090911 , -76.4738909089 , Bruckner Laboratory
+t, 42.4483090911 , -76.4741090911 , Bruckner Laboratory
+t, 42.4480909089 , -76.4741090911 , Bruckner Laboratory
+t, 42.4528909089 , -76.4817909089 , Risley Hall
+t, 42.4531090911 , -76.4817909089 , Risley Hall
+t, 42.4531090911 , -76.4820090911 , Risley Hall
+t, 42.4528909089 , -76.4820090911 , Risley Hall
+t, 42.4468909089 , -76.4883909089 , Hans Bethe House
+t, 42.4471090911 , -76.4883909089 , Hans Bethe House
+t, 42.4471090911 , -76.4886090911 , Hans Bethe House
+t, 42.4468909089 , -76.4886090911 , Hans Bethe House
+t, 42.4456909089 , -76.4868909089 , Telluride House
+t, 42.4459090911 , -76.4868909089 , Telluride House
+t, 42.4459090911 , -76.4871090911 , Telluride House
+t, 42.4456909089 , -76.4871090911 , Telluride House
+t, 42.4435909089 , -76.4863909089 , Hughes Hall
+t, 42.4438090911 , -76.4863909089 , Hughes Hall
+t, 42.4438090911 , -76.4866090911 , Hughes Hall
+t, 42.4435909089 , -76.4866090911 , Hughes Hall
+t, 42.4446909089 , -76.4855909089 , Anabel Taylor Hall
+t, 42.4449090911 , -76.4855909089 , Anabel Taylor Hall
+t, 42.4449090911 , -76.4858090911 , Anabel Taylor Hall
+t, 42.4446909089 , -76.4858090911 , Anabel Taylor Hall
+t, 42.4437909089 , -76.4856909089 , Myron Taylor Hall
+t, 42.4440090911 , -76.4856909089 , Myron Taylor Hall
+t, 42.4440090911 , -76.4859090911 , Myron Taylor Hall
+t, 42.4437909089 , -76.4859090911 , Myron Taylor Hall
+t, 42.4481909089 , -76.4877909089 , Founders Hall
+t, 42.4484090911 , -76.4877909089 , Founders Hall
+t, 42.4484090911 , -76.4880090911 , Founders Hall
+t, 42.4481909089 , -76.4880090911 , Founders Hall
+t, 42.4486097089 , -76.4885285089 , North Baker Hall
+t, 42.4488278911 , -76.4885285089 , North Baker Hall
+t, 42.4488278911 , -76.4887466911 , North Baker Hall
+t, 42.4486097089 , -76.4887466911 , North Baker Hall
+t, 42.4488888089 , -76.4885928089 , Boldt Hall
+t, 42.4491069911 , -76.4885928089 , Boldt Hall
+t, 42.4491069911 , -76.4888109911 , Boldt Hall
+t, 42.4488888089 , -76.4888109911 , Boldt Hall
+t, 42.4483880089 , -76.4882254089 , South Baker Hall
+t, 42.4486061911 , -76.4882254089 , South Baker Hall
+t, 42.4486061911 , -76.4884435911 , South Baker Hall
+t, 42.4483880089 , -76.4884435911 , South Baker Hall
+t, 42.4445909089 , -76.4823909089 , Duffield Hall
+t, 42.4448090911 , -76.4823909089 , Duffield Hall
+t, 42.4448090911 , -76.4826090911 , Duffield Hall
+t, 42.4445909089 , -76.4826090911 , Duffield Hall
+t, 42.4463909089 , -76.4852909089 , Willard Straight Hall
+t, 42.4466090911 , -76.4852909089 , Willard Straight Hall
+t, 42.4466090911 , -76.4855090911 , Willard Straight Hall
+t, 42.4463909089 , -76.4855090911 , Willard Straight Hall
+t, 42.4462909089 , -76.4841909089 , Bames Hall
+t, 42.4465090911 , -76.4841909089 , Bames Hall
+t, 42.4465090911 , -76.4844090911 , Bames Hall
+t, 42.4462909089 , -76.4844090911 , Bames Hall
+t, 42.4434909089 , -76.4819909089 , Grumman Hall
+t, 42.4437090911 , -76.4819909089 , Grumman Hall
+t, 42.4437090911 , -76.4822090911 , Grumman Hall
+t, 42.4434909089 , -76.4822090911 , Grumman Hall
+t, 42.4438909089 , -76.4823909089 , Upson Hall
+t, 42.4441090911 , -76.4823909089 , Upson Hall
+t, 42.4441090911 , -76.4826090911 , Upson Hall
+t, 42.4438909089 , -76.4826090911 , Upson Hall
+t, 42.4443909089 , -76.4819909089 , Phillips Hall
+t, 42.4446090911 , -76.4819909089 , Phillips Hall
+t, 42.4446090911 , -76.4822090911 , Phillips Hall
+t, 42.4443909089 , -76.4822090911 , Phillips Hall
+t, 42.4437909089 , -76.4844909089 , Snee Hall
+t, 42.4440090911 , -76.4844909089 , Snee Hall
+t, 42.4440090911 , -76.4847090911 , Snee Hall
+t, 42.4437909089 , -76.4847090911 , Snee Hall
+t, 42.4436909089 , -76.4838909089 , Bard Hall
+t, 42.4439090911 , -76.4838909089 , Bard Hall
+t, 42.4439090911 , -76.4841090911 , Bard Hall
+t, 42.4436909089 , -76.4841090911 , Bard Hall
+t, 42.4437909089 , -76.4835909089 , Thurston Hall
+t, 42.4440090911 , -76.4835909089 , Thurston Hall
+t, 42.4440090911 , -76.4838090911 , Thurston Hall
+t, 42.4437909089 , -76.4838090911 , Thurston Hall
+t, 42.4437909089 , -76.4830909089 , Kimball Hall
+t, 42.4440090911 , -76.4830909089 , Kimball Hall
+t, 42.4440090911 , -76.4833090911 , Kimball Hall
+t, 42.4437909089 , -76.4833090911 , Kimball Hall
+t, 42.4425909089 , -76.4753909089 , Humphreys Service Building
+t, 42.4428090911 , -76.4753909089 , Humphreys Service Building
+t, 42.4428090911 , -76.4756090911 , Humphreys Service Building
+t, 42.4425909089 , -76.4756090911 , Humphreys Service Building
+t, 42.4447909089 , -76.4785909089 , Schoellkopf Memorial Hall
+t, 42.4450090911 , -76.4785909089 , Schoellkopf Memorial Hall
+t, 42.4450090911 , -76.4788090911 , Schoellkopf Memorial Hall
+t, 42.4447909089 , -76.4788090911 , Schoellkopf Memorial Hall
+t, 42.4444909089 , -76.4845909089 , DeFrees Laboratory
+t, 42.4447090911 , -76.4845909089 , DeFrees Laboratory
+t, 42.4447090911 , -76.4848090911 , DeFrees Laboratory
+t, 42.4444909089 , -76.4848090911 , DeFrees Laboratory
+t, 42.4473909089 , -76.4876909089 , War Memorial Hall
+t, 42.4476090911 , -76.4876909089 , War Memorial Hall
+t, 42.4476090911 , -76.4879090911 , War Memorial Hall
+t, 42.4473909089 , -76.4879090911 , War Memorial Hall
+t, 42.4470909089 , -76.4878909089 , McFaddin Hall
+t, 42.4473090911 , -76.4878909089 , McFaddin Hall
+t, 42.4473090911 , -76.4881090911 , McFaddin Hall
+t, 42.4470909089 , -76.4881090911 , McFaddin Hall
+t, 42.4478909089 , -76.4878909089 , Mennen Hall
+t, 42.4481090911 , -76.4878909089 , Mennen Hall
+t, 42.4481090911 , -76.4881090911 , Mennen Hall
+t, 42.4478909089 , -76.4881090911 , Mennen Hall
+t, 42.4476909089 , -76.4878909089 , Lyon Hall
+t, 42.4479090911 , -76.4878909089 , Lyon Hall
+t, 42.4479090911 , -76.4881090911 , Lyon Hall
+t, 42.4476909089 , -76.4881090911 , Lyon Hall
+t, 42.4492909089 , -76.4851909089 , McGraw Hall
+t, 42.4495090911 , -76.4851909089 , McGraw Hall
+t, 42.4495090911 , -76.4854090911 , McGraw Hall
+t, 42.4492909089 , -76.4854090911 , McGraw Hall
+t, 42.4476944089 , -76.4832794089 , Stimson Hall
+t, 42.4479125911 , -76.4832794089 , Stimson Hall
+t, 42.4479125911 , -76.4834975911 , Stimson Hall
+t, 42.4476944089 , -76.4834975911 , Stimson Hall
+t, 42.4506909089 , -76.4851909089 , Olive Tjaden Hall
+t, 42.4509090911 , -76.4851909089 , Olive Tjaden Hall
+t, 42.4509090911 , -76.4854090911 , Olive Tjaden Hall
+t, 42.4506909089 , -76.4854090911 , Olive Tjaden Hall
+t, 42.4500909089 , -76.4851909089 , White Hall
+t, 42.4503090911 , -76.4851909089 , White Hall
+t, 42.4503090911 , -76.4854090911 , White Hall
+t, 42.4500909089 , -76.4854090911 , White Hall
+t, 42.4499909089 , -76.4834909089 , Lincoln Hall
+t, 42.4502090911 , -76.4834909089 , Lincoln Hall
+t, 42.4502090911 , -76.4837090911 , Lincoln Hall
+t, 42.4499909089 , -76.4837090911 , Lincoln Hall
+t, 42.4456909089 , -76.4831909089 , Sage Hall
+t, 42.4459090911 , -76.4831909089 , Sage Hall
+t, 42.4459090911 , -76.4834090911 , Sage Hall
+t, 42.4456909089 , -76.4834090911 , Sage Hall
+t, 42.4507909089 , -76.4838909089 , Sibley Hall
+t, 42.4510090911 , -76.4838909089 , Sibley Hall
+t, 42.4510090911 , -76.4841090911 , Sibley Hall
+t, 42.4507909089 , -76.4841090911 , Sibley Hall
+t, 42.4510909089 , -76.4826909089 , Rand Hall
+t, 42.4513090911 , -76.4826909089 , Rand Hall
+t, 42.4513090911 , -76.4829090911 , Rand Hall
+t, 42.4510909089 , -76.4829090911 , Rand Hall
+t, 42.4472064089 , -76.4829652089 , Day Hall
+t, 42.4474245911 , -76.4829652089 , Day Hall
+t, 42.4474245911 , -76.4831833911 , Day Hall
+t, 42.4472064089 , -76.4831833911 , Day Hall
+t, 42.4504909089 , -76.4803909089 , Newman Laboratory Annex
+t, 42.4507090911 , -76.4803909089 , Newman Laboratory Annex
+t, 42.4507090911 , -76.4806090911 , Newman Laboratory Annex
+t, 42.4504909089 , -76.4806090911 , Newman Laboratory Annex
+t, 42.4484909089 , -76.4791909089 , Roberts Hall
+t, 42.4487090911 , -76.4791909089 , Roberts Hall
+t, 42.4487090911 , -76.4794090911 , Roberts Hall
+t, 42.4484909089 , -76.4794090911 , Roberts Hall
+t, 42.4490909089 , -76.4769909089 , Warren Hall
+t, 42.4493090911 , -76.4769909089 , Warren Hall
+t, 42.4493090911 , -76.4772090911 , Warren Hall
+t, 42.4490909089 , -76.4772090911 , Warren Hall
+t, 42.4490909089 , -76.4780909089 , Caldwell Hall
+t, 42.4493090911 , -76.4780909089 , Caldwell Hall
+t, 42.4493090911 , -76.4783090911 , Caldwell Hall
+t, 42.4490909089 , -76.4783090911 , Caldwell Hall
+t, 42.4477909089 , -76.4755909089 , Bradfield Hall
+t, 42.4480090911 , -76.4755909089 , Bradfield Hall
+t, 42.4480090911 , -76.4758090911 , Bradfield Hall
+t, 42.4477909089 , -76.4758090911 , Bradfield Hall
+t, 42.4481909089 , -76.4755909089 , Emerson Hall
+t, 42.4484090911 , -76.4755909089 , Emerson Hall
+t, 42.4484090911 , -76.4758090911 , Emerson Hall
+t, 42.4481909089 , -76.4758090911 , Emerson Hall
+t, 42.4447909089 , -76.4729909089 , Wilson Synchrotron Laboratory
+t, 42.4450090911 , -76.4729909089 , Wilson Synchrotron Laboratory
+t, 42.4450090911 , -76.4732090911 , Wilson Synchrotron Laboratory
+t, 42.4447909089 , -76.4732090911 , Wilson Synchrotron Laboratory
+t, 42.4456909089 , -76.4708909089 , Riley-Robb Hall
+t, 42.4459090911 , -76.4708909089 , Riley-Robb Hall
+t, 42.4459090911 , -76.4711090911 , Riley-Robb Hall
+t, 42.4456909089 , -76.4711090911 , Riley-Robb Hall
+t, 42.4463909089 , -76.4714909089 , Wing Hall
+t, 42.4466090911 , -76.4714909089 , Wing Hall
+t, 42.4466090911 , -76.4717090911 , Wing Hall
+t, 42.4463909089 , -76.4717090911 , Wing Hall
+t, 42.4469909089 , -76.4711909089 , Stocking Hall
+t, 42.4472090911 , -76.4711909089 , Stocking Hall
+t, 42.4472090911 , -76.4714090911 , Stocking Hall
+t, 42.4469909089 , -76.4714090911 , Stocking Hall
+t, 42.4464909089 , -76.4692909089 , Morrison Hall
+t, 42.4467090911 , -76.4692909089 , Morrison Hall
+t, 42.4467090911 , -76.4695090911 , Morrison Hall
+t, 42.4464909089 , -76.4695090911 , Morrison Hall
+t, 42.4455909089 , -76.4762909089 , Bartels Hall
+t, 42.4458090911 , -76.4762909089 , Bartels Hall
+t, 42.4458090911 , -76.4765090911 , Bartels Hall
+t, 42.4455909089 , -76.4765090911 , Bartels Hall
+t, 42.4470909089 , -76.4781909089 , Dale R Corson Hall
+t, 42.4473090911 , -76.4781909089 , Dale R Corson Hall
+t, 42.4473090911 , -76.4784090911 , Dale R Corson Hall
+t, 42.4470909089 , -76.4784090911 , Dale R Corson Hall
+t, 42.4470909089 , -76.4790909089 , Seeley G Mudd Hall
+t, 42.4473090911 , -76.4790909089 , Seeley G Mudd Hall
+t, 42.4473090911 , -76.4793090911 , Seeley G Mudd Hall
+t, 42.4470909089 , -76.4793090911 , Seeley G Mudd Hall
+t, 42.4452909089 , -76.4819909089 , Statler Hall
+t, 42.4455090911 , -76.4819909089 , Statler Hall
+t, 42.4455090911 , -76.4822090911 , Statler Hall
+t, 42.4452909089 , -76.4822090911 , Statler Hall
+t, 42.4461909089 , -76.4877909089 , Noyes Community Recreation Center
+t, 42.4464090911 , -76.4877909089 , Noyes Community Recreation Center
+t, 42.4464090911 , -76.4880090911 , Noyes Community Recreation Center
+t, 42.4461909089 , -76.4880090911 , Noyes Community Recreation Center
+t, 42.4511909089 , -76.4791909089 , Weinhold Chilled Water Plant 1
+t, 42.4514090911 , -76.4791909089 , Weinhold Chilled Water Plant 1
+t, 42.4514090911 , -76.4794090911 , Weinhold Chilled Water Plant 1
+t, 42.4511909089 , -76.4794090911 , Weinhold Chilled Water Plant 1
+t, 42.4466247089 , -76.4840900089 , Cornell Store
+t, 42.4468428911 , -76.4840900089 , Cornell Store
+t, 42.4468428911 , -76.4843081911 , Cornell Store
+t, 42.4466247089 , -76.4843081911 , Cornell Store
+t, 42.4473722089 , -76.4709248089 , Dairy Bar
+t, 42.4475903911 , -76.4709248089 , Dairy Bar
+t, 42.4475903911 , -76.4711429911 , Dairy Bar
+t, 42.4473722089 , -76.4711429911 , Dairy Bar
+t, 42.4417919089 , -76.4875078089 , Mehak's
+t, 42.4420100911 , -76.4875078089 , Mehak's
+t, 42.4420100911 , -76.4877259911 , Mehak's
+t, 42.4417919089 , -76.4877259911 , Mehak's
+t, 42.4414259089 , -76.4859672089 , Mama Teresa
+t, 42.4416440911 , -76.4859672089 , Mama Teresa
+t, 42.4416440911 , -76.4861853911 , Mama Teresa
+t, 42.4414259089 , -76.4861853911 , Mama Teresa
+t, 42.4415684089 , -76.4863642089 , Dasan J
+t, 42.4417865911 , -76.4863642089 , Dasan J
+t, 42.4417865911 , -76.4865823911 , Dasan J
+t, 42.4415684089 , -76.4865823911 , Dasan J
+t, 42.4414378089 , -76.4863802089 , Plum Tree
+t, 42.4416559911 , -76.4863802089 , Plum Tree
+t, 42.4416559911 , -76.4865983911 , Plum Tree
+t, 42.4414378089 , -76.4865983911 , Plum Tree
+t, 42.4423877089 , -76.4848031089 , Collegetown Bagels
+t, 42.4426058911 , -76.4848031089 , Collegetown Bagels
+t, 42.4426058911 , -76.4850212911 , Collegetown Bagels
+t, 42.4423877089 , -76.4850212911 , Collegetown Bagels
+t, 42.4423808089 , -76.4853630089 , Schwartz Bike Racks
+t, 42.4425989911 , -76.4853630089 , Schwartz Bike Racks
+t, 42.4425989911 , -76.4855811911 , Schwartz Bike Racks
+t, 42.4423808089 , -76.4855811911 , Schwartz Bike Racks
+t, 42.4527865089 , -76.4814612089 , Risley Theater
+t, 42.4530046911 , -76.4814612089 , Risley Theater
+t, 42.4530046911 , -76.4816793911 , Risley Theater
+t, 42.4527865089 , -76.4816793911 , Risley Theater
+t, 42.4556909089 , -76.4773909089 , Robert Purcell Community Center
+t, 42.4559090911 , -76.4773909089 , Robert Purcell Community Center
+t, 42.4559090911 , -76.4776090911 , Robert Purcell Community Center
+t, 42.4556909089 , -76.4776090911 , Robert Purcell Community Center
+t, 42.4545626089 , -76.4766213089 , Mews Hall
+t, 42.4547807911 , -76.4766213089 , Mews Hall
+t, 42.4547807911 , -76.4768394911 , Mews Hall
+t, 42.4545626089 , -76.4768394911 , Mews Hall
+t, 42.4539609089 , -76.4817357089 , Zeta Psi - Psi Chapter
+t, 42.4541790911 , -76.4817357089 , Zeta Psi - Psi Chapter
+t, 42.4541790911 , -76.4819538911 , Zeta Psi - Psi Chapter
+t, 42.4539609089 , -76.4819538911 , Zeta Psi - Psi Chapter
+t, 42.4463454089 , -76.4819695089 , The Statler Hotel
+t, 42.4465635911 , -76.4819695089 , The Statler Hotel
+t, 42.4465635911 , -76.4821876911 , The Statler Hotel
+t, 42.4463454089 , -76.4821876911 , The Statler Hotel
+t, 42.4483876089 , -76.4835289089 , Goldwin Smith Hall
+t, 42.4486057911 , -76.4835289089 , Goldwin Smith Hall
+t, 42.4486057911 , -76.4837470911 , Goldwin Smith Hall
+t, 42.4483876089 , -76.4837470911 , Goldwin Smith Hall
+t, 42.4495162089 , -76.4834768089 , Goldwin Smith Hall
+t, 42.4497343911 , -76.4834768089 , Goldwin Smith Hall
+t, 42.4497343911 , -76.4836949911 , Goldwin Smith Hall
+t, 42.4495162089 , -76.4836949911 , Goldwin Smith Hall
+t, 42.4487504089 , -76.4820253089 , Rockefeller Hall
+t, 42.4489685911 , -76.4820253089 , Rockefeller Hall
+t, 42.4489685911 , -76.4822434911 , Rockefeller Hall
+t, 42.4487504089 , -76.4822434911 , Rockefeller Hall
+t, 42.4477476089 , -76.4849903089 , Uris Library
+t, 42.4479657911 , -76.4849903089 , Uris Library
+t, 42.4479657911 , -76.4852084911 , Uris Library
+t, 42.4477476089 , -76.4852084911 , Uris Library
+t, 42.4492590089 , -76.4820617089 , Rockefeller Hall
+t, 42.4494771911 , -76.4820617089 , Rockefeller Hall
+t, 42.4494771911 , -76.4822798911 , Rockefeller Hall
+t, 42.4492590089 , -76.4822798911 , Rockefeller Hall
+t, 42.4471913089 , -76.4827461089 , Day Hall
+t, 42.4474094911 , -76.4827461089 , Day Hall
+t, 42.4474094911 , -76.4829642911 , Day Hall
+t, 42.4471913089 , -76.4829642911 , Day Hall
+t, 42.4468002089 , -76.4822412089 , Uris Hall
+t, 42.4470183911 , -76.4822412089 , Uris Hall
+t, 42.4470183911 , -76.4824593911 , Uris Hall
+t, 42.4468002089 , -76.4824593911 , Uris Hall
+t, 42.4483550089 , -76.4810472089 , Big Red Barn
+t, 42.4485731911 , -76.4810472089 , Big Red Barn
+t, 42.4485731911 , -76.4812653911 , Big Red Barn
+t, 42.4483550089 , -76.4812653911 , Big Red Barn
+t, 42.4418329089 , -76.4850982089 , Bike Rack
+t, 42.4420510911 , -76.4850982089 , Bike Rack
+t, 42.4420510911 , -76.4853163911 , Bike Rack
+t, 42.4418329089 , -76.4853163911 , Bike Rack
+t, 42.4469080089 , -76.4828864089 , Cornell University
+t, 42.4471261911 , -76.4828864089 , Cornell University
+t, 42.4471261911 , -76.4831045911 , Cornell University
+t, 42.4469080089 , -76.4831045911 , Cornell University
+t, 42.4423166089 , -76.4857098089 , Schwartz Center for the Performing Arts
+t, 42.4425347911 , -76.4857098089 , Schwartz Center for the Performing Arts
+t, 42.4425347911 , -76.4859279911 , Schwartz Center for the Performing Arts
+t, 42.4423166089 , -76.4859279911 , Schwartz Center for the Performing Arts
+t, 42.4422669089 , -76.4850401089 , Collegetown Bagels
+t, 42.4424850911 , -76.4850401089 , Collegetown Bagels
+t, 42.4424850911 , -76.4852582911 , Collegetown Bagels
+t, 42.4422669089 , -76.4852582911 , Collegetown Bagels
+t, 42.4494309089 , -76.4810344089 , Clark Hall
+t, 42.4496490911 , -76.4810344089 , Clark Hall
+t, 42.4496490911 , -76.4812525911 , Clark Hall
+t, 42.4494309089 , -76.4812525911 , Clark Hall
+t, 42.4451854089 , -76.4843349089 , Olin Hall
+t, 42.4454035911 , -76.4843349089 , Olin Hall
+t, 42.4454035911 , -76.4845530911 , Olin Hall
+t, 42.4451854089 , -76.4845530911 , Olin Hall
+t, 42.4516754089 , -76.4807796089 , Alumni House
+t, 42.4518935911 , -76.4807796089 , Alumni House
+t, 42.4518935911 , -76.4809977911 , Alumni House
+t, 42.4516754089 , -76.4809977911 , Alumni House
+t, 42.4420136089 , -76.4875131089 , Sangam
+t, 42.4422317911 , -76.4875131089 , Sangam
+t, 42.4422317911 , -76.4877312911 , Sangam
+t, 42.4420136089 , -76.4877312911 , Sangam
+t, 42.4491251089 , -76.4800255089 , Bailey Hall
+t, 42.4493432911 , -76.4800255089 , Bailey Hall
+t, 42.4493432911 , -76.4802436911 , Bailey Hall
+t, 42.4491251089 , -76.4802436911 , Bailey Hall
+t, 42.4505678089 , -76.4862003089 , Johnson Museum of Art
+t, 42.4507859911 , -76.4862003089 , Johnson Museum of Art
+t, 42.4507859911 , -76.4864184911 , Johnson Museum of Art
+t, 42.4505678089 , -76.4864184911 , Johnson Museum of Art
+t, 42.4461801089 , -76.4856903089 , Cornell Cinema
+t, 42.4463982911 , -76.4856903089 , Cornell Cinema
+t, 42.4463982911 , -76.4859084911 , Cornell Cinema
+t, 42.4461801089 , -76.4859084911 , Cornell Cinema
+t, 42.4490134089 , -76.4832892089 , Tompkins
+t, 42.4492315911 , -76.4832892089 , Tompkins
+t, 42.4492315911 , -76.4835073911 , Tompkins
+t, 42.4490134089 , -76.4835073911 , Tompkins
+t, 42.4530075089 , -76.4772418089 , Helen Newman Hall
+t, 42.4532256911 , -76.4772418089 , Helen Newman Hall
+t, 42.4532256911 , -76.4774599911 , Helen Newman Hall
+t, 42.4530075089 , -76.4774599911 , Helen Newman Hall
+t, 42.4532507089 , -76.4811158089 , Louie's Lunch
+t, 42.4534688911 , -76.4811158089 , Louie's Lunch
+t, 42.4534688911 , -76.4813339911 , Louie's Lunch
+t, 42.4532507089 , -76.4813339911 , Louie's Lunch
+t, 42.4531517089 , -76.4820975089 , Risley Dining
+t, 42.4533698911 , -76.4820975089 , Risley Dining
+t, 42.4533698911 , -76.4823156911 , Risley Dining
+t, 42.4531517089 , -76.4823156911 , Risley Dining
+t, 42.4487700089 , -76.4835298089 , Temple of Zeus
+t, 42.4489881911 , -76.4835298089 , Temple of Zeus
+t, 42.4489881911 , -76.4837479911 , Temple of Zeus
+t, 42.4487700089 , -76.4837479911 , Temple of Zeus
+t, 42.4463277089 , -76.4859009089 , Willard Straight Lot
+t, 42.4465458911 , -76.4859009089 , Willard Straight Lot
+t, 42.4465458911 , -76.4861190911 , Willard Straight Lot
+t, 42.4463277089 , -76.4861190911 , Willard Straight Lot
+t, 42.4507610089 , -76.4841038089 , The Green Dragon
+t, 42.4509791911 , -76.4841038089 , The Green Dragon
+t, 42.4509791911 , -76.4843219911 , The Green Dragon
+t, 42.4507610089 , -76.4843219911 , The Green Dragon
+t, 42.4465771089 , -76.4856058089 , Ivy Room
+t, 42.4467952911 , -76.4856058089 , Ivy Room
+t, 42.4467952911 , -76.4858239911 , Ivy Room
+t, 42.4465771089 , -76.4858239911 , Ivy Room
+t, 42.4454727089 , -76.4854932089 , Gannett Lot
+t, 42.4456908911 , -76.4854932089 , Gannett Lot
+t, 42.4456908911 , -76.4857113911 , Gannett Lot
+t, 42.4454727089 , -76.4857113911 , Gannett Lot
+t, 42.4435132089 , -76.4862657089 , Hughes Dining
+t, 42.4437313911 , -76.4862657089 , Hughes Dining
+t, 42.4437313911 , -76.4864838911 , Hughes Dining
+t, 42.4435132089 , -76.4864838911 , Hughes Dining
+t, 42.4478398089 , -76.4845812089 , Libe Cafe
+t, 42.4480579911 , -76.4845812089 , Libe Cafe
+t, 42.4480579911 , -76.4847993911 , Libe Cafe
+t, 42.4478398089 , -76.4847993911 , Libe Cafe
+t, 42.4462683089 , -76.4854771089 , Cascadelli
+t, 42.4464864911 , -76.4854771089 , Cascadelli
+t, 42.4464864911 , -76.4856952911 , Cascadelli
+t, 42.4462683089 , -76.4856952911 , Cascadelli
+t, 42.4439011089 , -76.4857024089 , Cornell Law Library
+t, 42.4441192911 , -76.4857024089 , Cornell Law Library
+t, 42.4441192911 , -76.4859205911 , Cornell Law Library
+t, 42.4439011089 , -76.4859205911 , Cornell Law Library
+t, 42.4446374089 , -76.4840716089 , Cornell Engineering Library
+t, 42.4448555911 , -76.4840716089 , Cornell Engineering Library
+t, 42.4448555911 , -76.4842897911 , Cornell Engineering Library
+t, 42.4446374089 , -76.4842897911 , Cornell Engineering Library
+t, 42.4464425089 , -76.4800268089 , US Post Office
+t, 42.4466606911 , -76.4800268089 , US Post Office
+t, 42.4466606911 , -76.4802449911 , US Post Office
+t, 42.4464425089 , -76.4802449911 , US Post Office
+t, 42.4463831089 , -76.4851299089 , Willard Straight Hall
+t, 42.4466012911 , -76.4851299089 , Willard Straight Hall
+t, 42.4466012911 , -76.4853480911 , Willard Straight Hall
+t, 42.4463831089 , -76.4853480911 , Willard Straight Hall
+t, 42.4455597089 , -76.4850535089 , Gannett Health Center
+t, 42.4457778911 , -76.4850535089 , Gannett Health Center
+t, 42.4457778911 , -76.4852716911 , Gannett Health Center
+t, 42.4455597089 , -76.4852716911 , Gannett Health Center
+t, 42.4484650089 , -76.4764166089 , Mandible Cafe
+t, 42.4486831911 , -76.4764166089 , Mandible Cafe
+t, 42.4486831911 , -76.4766347911 , Mandible Cafe
+t, 42.4484650089 , -76.4766347911 , Mandible Cafe
+t, 42.4478359089 , -76.4789861089 , Trillium
+t, 42.4480540911 , -76.4789861089 , Trillium
+t, 42.4480540911 , -76.4792042911 , Trillium
+t, 42.4478359089 , -76.4792042911 , Trillium
+t, 42.4501000089 , -76.4790076089 , Martha's
+t, 42.4503181911 , -76.4790076089 , Martha's
+t, 42.4503181911 , -76.4792257911 , Martha's
+t, 42.4501000089 , -76.4792257911 , Martha's
+t, 42.4497279089 , -76.4814806089 , Goldies
+t, 42.4499460911 , -76.4814806089 , Goldies
+t, 42.4499460911 , -76.4816987911 , Goldies
+t, 42.4497279089 , -76.4816987911 , Goldies
+t, 42.4467473089 , -76.4775807089 , Synapsis
+t, 42.4469654911 , -76.4775807089 , Synapsis
+t, 42.4469654911 , -76.4777988911 , Synapsis
+t, 42.4467473089 , -76.4777988911 , Synapsis
+t, 42.4483227089 , -76.4809173089 , Big Red Barn
+t, 42.4485408911 , -76.4809173089 , Big Red Barn
+t, 42.4485408911 , -76.4811354911 , Big Red Barn
+t, 42.4483227089 , -76.4811354911 , Big Red Barn
+t, 42.4477409089 , -76.4793348089 , Trillium Express
+t, 42.4479590911 , -76.4793348089 , Trillium Express
+t, 42.4479590911 , -76.4795529911 , Trillium Express
+t, 42.4477409089 , -76.4795529911 , Trillium Express
+t, 42.4533910089 , -76.4761897089 , North Star Express
+t, 42.4536091911 , -76.4761897089 , North Star Express
+t, 42.4536091911 , -76.4764078911 , North Star Express
+t, 42.4533910089 , -76.4764078911 , North Star Express
+t, 42.4535571089 , -76.4761174089 , Ezra's Emporium
+t, 42.4537752911 , -76.4761174089 , Ezra's Emporium
+t, 42.4537752911 , -76.4763355911 , Ezra's Emporium
+t, 42.4535571089 , -76.4763355911 , Ezra's Emporium
+t, 42.4534088089 , -76.4758866089 , NorthStar Dining
+t, 42.4536269911 , -76.4758866089 , NorthStar Dining
+t, 42.4536269911 , -76.4761047911 , NorthStar Dining
+t, 42.4534088089 , -76.4761047911 , NorthStar Dining
+t, 42.4558494089 , -76.4774345089 , Robert Purcell Eatery
+t, 42.4560675911 , -76.4774345089 , Robert Purcell Eatery
+t, 42.4560675911 , -76.4776526911 , Robert Purcell Eatery
+t, 42.4558494089 , -76.4776526911 , Robert Purcell Eatery
+t, 42.4556594089 , -76.4775418089 , Bear Necessities
+t, 42.4558775911 , -76.4775418089 , Bear Necessities
+t, 42.4558775911 , -76.4777599911 , Bear Necessities
+t, 42.4556594089 , -76.4777599911 , Bear Necessities
+t, 42.4530709089 , -76.4792101089 , Carol's Cafe
+t, 42.4532890911 , -76.4792101089 , Carol's Cafe
+t, 42.4532890911 , -76.4794282911 , Carol's Cafe
+t, 42.4530709089 , -76.4794282911 , Carol's Cafe
+t, 42.4414219089 , -76.4861171089 , Collegetown Pizza
+t, 42.4416400911 , -76.4861171089 , Collegetown Pizza
+t, 42.4416400911 , -76.4863352911 , Collegetown Pizza
+t, 42.4414219089 , -76.4863352911 , Collegetown Pizza
+t, 42.4481574089 , -76.4831722089 , Kroch Library
+t, 42.4483755911 , -76.4831722089 , Kroch Library
+t, 42.4483755911 , -76.4833903911 , Kroch Library
+t, 42.4481574089 , -76.4833903911 , Kroch Library
+t, 42.4464188089 , -76.4856541089 , Okenshields
+t, 42.4466369911 , -76.4856541089 , Okenshields
+t, 42.4466369911 , -76.4858722911 , Okenshields
+t, 42.4464188089 , -76.4858722911 , Okenshields
+t, 42.4449708089 , -76.4839316089 , Information Booth (Cornell University)
+t, 42.4451889911 , -76.4839316089 , Information Booth (Cornell University)
+t, 42.4451889911 , -76.4841497911 , Information Booth (Cornell University)
+t, 42.4449708089 , -76.4841497911 , Information Booth (Cornell University)
+t, 42.4431261089 , -76.4799351089 , Information Booth (Cornell University)
+t, 42.4433442911 , -76.4799351089 , Information Booth (Cornell University)
+t, 42.4433442911 , -76.4801532911 , Information Booth (Cornell University)
+t, 42.4431261089 , -76.4801532911 , Information Booth (Cornell University)
