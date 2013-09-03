@@ -6,4 +6,8 @@ class Datapoint < ActiveRecord::Base
   def gmaps4rails_address
   	#
   end
+
+  def gmaps4rails_infowindow
+    "#{self.name}"
+  end
 end
